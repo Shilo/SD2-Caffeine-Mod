@@ -1,11 +1,19 @@
 # SD2 Caffeine Mod
 [![Caffeine](README/about.png)](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
 [Caffeine](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
-> Author: Shilo  
+Author: [Shilo](https://github.com/Shilo)  
 
 Caffeine Mod boosts Soda Dungeon 2's energy and smartness.  
 Includes quality of life features and fixes.  
 Guaranteed free, safe, and no cheats.  
+
+## Features
+- Display realtime FPH and Warped FPH in dungeon run.
+- Export script with 'Copy Script To Clipboard' button in script menu.
+- Customizable mod options.
+
+## Fixes
+- Improved character stats positions in party window.
 
 ## Disclaimer:
 All code and rights belong to their respective owners: AN Productions, Poxpower, Armor Games Studios or other.  
@@ -48,15 +56,33 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Replace file with a backup/original version. There should be a backup in the same folder if you followed the installation correctly.
 - If game is running, exit and restart it.
 
-## Changes
+## Potential Roadmap
+Coming soon...
 
-### Features
-- Display realtime FPH and Warped FPH in dungeon run.
-- Export script with 'Copy Script To Clipboard' button in script menu.
-- Customizable mod options.
-
-### Fixes
-- Improved character stats positions in party window.
+## Versioning
+Format of versions: `SD2_VERSION SODAS>CHARACTERS>SKILLS`
+> Example: v1.0.5 Soda Junkie
+### Chronological Order
+1. Soda Junkie
+2. Hammerin' Ale
+3. Quarry Quench
+4. RN Cola
+5. Mystic Fizz
+6. Loot Beer
+7. Wildberry Blast
+8. Corrupted Cola
+9. Double Bubble
+10. The Dark Lord
+11. Big Burp
+12. Nailed it
+13. Transmute
+14. First Aid
+15. Torment
+16. Ransack
+17. Mark
+18. Noxin
+19. Double Strike
+20. Shadow Slicer
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com/)
