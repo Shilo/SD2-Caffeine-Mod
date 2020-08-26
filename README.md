@@ -25,7 +25,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Download the [mod here](https://github.com/Shilo/SD2-Caffeine-Mod/releases).
 - Unzip downloaded folder.
 - Install with one of two methods:
-### 1. Mod Auto Uninstall
+### 1. Mod Auto Install
 - Coming soon...
 - If game is running, exit and restart it.
 ### 2. Manual
@@ -45,7 +45,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - If game is running, exit and restart it.
 ### 3. Manual
 - Locate file: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed\Assembly-CSharp.dll`
-- Replace file with a backup/original version. There should be a backup in the folder if you followed the installation correctly.
+- Replace file with a backup/original version. There should be a backup in the same folder if you followed the installation correctly.
 - If game is running, exit and restart it.
 
 ## Changes
