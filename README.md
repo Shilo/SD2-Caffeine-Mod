@@ -3,7 +3,7 @@
 [Caffeine](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
 > Author: Shilo  
 
-Caffeine Mod boosts the game's energy and smartness.  
+Caffeine Mod boosts Soda Dungeon 2's energy and smartness.  
 Includes quality of life features and fixes.  
 Guaranteed free, safe, and no cheats.  
 
@@ -17,7 +17,7 @@ By using any of this mods, you agree to the above.
 [Latest version](https://github.com/Shilo/SD2-Caffeine-Mod/releases)
 
 ## Instructions
-TODO
+Coming soon...
 
 ## Changes
 
