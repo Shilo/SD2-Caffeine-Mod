@@ -11,6 +11,7 @@ Guaranteed free, safe, and no cheats.
 All code and rights belong to their respective owners: AN Productions, Poxpower, Armor Games Studios or other.  
 I take no credit for any of the original code and assets.  
 Use this mods at your own risk: I am not responsible for any results of using this mod.  
+The terms "safe" and "cheats" are subjective.   
 By using this mod, you agree to the above terms.
 
 ## Download
@@ -28,3 +29,8 @@ Coming soon...
 
 ### Fixes
 - Improved character stats positions in party window.
+
+## Special Thanks
+- anpShawn
+- Tilli
+- XenosTec
