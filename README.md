@@ -62,3 +62,4 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - [Shawn Tanner](https://www.sodadungeon.com/)
 - [Tilli](https://discord.gg/y93QchM)
 - [XenosTec](https://discord.gg/y93QchM)
+- [caviyacht](https://github.com/caviyacht)
