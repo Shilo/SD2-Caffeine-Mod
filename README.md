@@ -31,6 +31,6 @@ Coming soon...
 - Improved character stats positions in party window.
 
 ## Special Thanks
-- anpShawn
+- [anpShawn](https://www.sodadungeon.com/)
 - Tilli
 - XenosTec
