@@ -1,4 +1,4 @@
-# SD2 Caffeine Mod
+# Soda Dungeon 2 - Caffeine Mod
 [![Caffeine](README/about.png)](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
 [Caffeine](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
 Author: [Shilo](https://github.com/Shilo)  
