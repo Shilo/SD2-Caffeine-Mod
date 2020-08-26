@@ -9,9 +9,9 @@ Guaranteed free, safe, and no cheats.
 
 ## Disclaimer:
 All code and rights belong to their respective owners: AN Productions, Poxpower, Armor Games Studios or other.  
-I take no credit for any of the original code.  
-Use these mods at your own risk: I am not responsible for any results of using this mods.  
-By using any of this mods, you agree to the above.
+I take no credit for any of the original code and assets.  
+Use this mods at your own risk: I am not responsible for any results of using this mod.  
+By using this mod, you agree to the above terms.
 
 ## Download
 [Latest version](https://github.com/Shilo/SD2-Caffeine-Mod/releases)
