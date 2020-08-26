@@ -22,8 +22,8 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 
 ## Installation
 > Note: If the game is updated, the mod will be automatically uninstalled.
-- Download the [mod here](https://github.com/Shilo/SD2-Caffeine-Mod/releases)
-- Unzip downloaded folder
+- Download the [mod here](https://github.com/Shilo/SD2-Caffeine-Mod/releases).
+- Unzip downloaded folder.
 - Install with one of two methods:
 ### 1. Mod Auto Uninstall
 - Coming soon...
