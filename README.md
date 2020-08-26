@@ -32,5 +32,5 @@ Coming soon...
 
 ## Special Thanks
 - [anpShawn](https://www.sodadungeon.com/)
-- Tilli
-- XenosTec
+- [Tilli](https://discord.gg/y93QchM)
+- [XenosTec](https://discord.gg/y93QchM)
