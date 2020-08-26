@@ -18,7 +18,7 @@ By using this mod, you agree to the above terms.
 [Latest version](https://github.com/Shilo/SD2-Caffeine-Mod/releases)
 
 ## Compatibility Warning
-Only install this mod with the compatible SD2 version specified (for example, Caffeine Mod v1.0 only supports SD2 v1.0.5). If you install the mod with an incompatible SD2 version, unwanted results will happen. The game will most likely freeze or crash. The game may also downgrade to an older SD2. If you happen to run into this issue, you can uninstall the mod to revert back to the original working game. Or you can repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
+Only install this mod with the compatible SD2 version specified (for example, Caffeine Mod v1.0 only supports SD2 v1.0.5). If you install the mod with an incompatible SD2 version, unwanted results will happen. The game will most likely freeze or crash. The game may also downgrade to an older SD2 version. If you happen to run into this issue, you can [uninstall the mod](https://github.com/Shilo/SD2-Caffeine-Mod/blob/master/README.md#uninstallation) to revert back to the original working game. Or you can repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
 
 ## Installation
 > Note: If the game is updated, the mod will be automatically uninstalled.
