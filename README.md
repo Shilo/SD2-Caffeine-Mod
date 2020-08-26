@@ -59,6 +59,6 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Improved character stats positions in party window.
 
 ## Special Thanks
-- [anpShawn](https://www.sodadungeon.com/)
+- [Shawn Tanner](https://www.sodadungeon.com/)
 - [Tilli](https://discord.gg/y93QchM)
 - [XenosTec](https://discord.gg/y93QchM)
