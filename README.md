@@ -71,6 +71,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - FEATURE: Show owned item counts in Item Compendium book.
 - Fix: Reposition dungeon character stats to avoid being off screen or covered.
 - Fix: Improve fit of large numbers in Hire window.
+- FIX: Improve sorting of "Adventure Progress" items (sort by rarity).
 
 ## Versioning
 Format of versions: `SD2_VERSION SODAS>CHARACTERS>SKILLS`
