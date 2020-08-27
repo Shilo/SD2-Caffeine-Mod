@@ -90,6 +90,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Ability to increase tick count for essence fountain.
 - Feature: Ability to increase tick count for relic leveling.
 
+[Submit feature and bug fix requests on issues page.](https://github.com/Shilo/SD2-Caffeine-Mod/issues)
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com/)
