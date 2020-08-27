@@ -6,7 +6,7 @@ Author: [Shilo](https://github.com/Shilo)
 Caffeine Mod boosts Soda Dungeon 2's energy and smartness.  
 Includes quality of life features and fixes.  
 Guaranteed free, safe, and no cheats.  
-(Compatible with PC/Steam only)
+> Compatible with PC/Steam only
 
 ## Features
 - Display realtime FPH and Warped FPH in dungeon run.
