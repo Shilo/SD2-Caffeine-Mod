@@ -74,7 +74,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - FIX: Improve sorting of "Adventure Progress" items (sort by rarity).
 
 ## Versioning
-Format of versions: `SD2_VERSION SODAS>CHARACTERS>SKILLS`
+Format of versions: `SD2_VERSION SODA>CHARACTER>SKILL>DIMENSION`
 > Example: v1.0.5 Soda Junkie
 ### Chronological Order
 1. Soda Junkie
