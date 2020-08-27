@@ -96,7 +96,7 @@ Format of versions: `SD2_VERSION SODAS>CHARACTERS>SKILLS`
 17. Mark
 18. Noxin
 19. Double Strike
-20. Shadow Slicer  
+20. Shadow Slicer
 21+. Dimensions 1+
 
 ## Special Thanks
