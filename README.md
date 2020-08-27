@@ -57,7 +57,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
 ### 3. Manual
 - Locate file: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed\Assembly-CSharp.dll`
-- Replace file with a backup/original version. There should be a backup in the same folder if you followed the installation correctly.
+- Replace file with a backup/original version. There should be a backup in the same folder if you followed the installation correctly. (`_BACKUP_Assembly-CSharp.dll` if you previously used `installer.bat`.
 - If game is running, exit and restart it.
 
 ## Potential Roadmap
