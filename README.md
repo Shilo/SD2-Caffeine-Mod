@@ -128,4 +128,5 @@ Format of versions: `SD2_VERSION.MOD_VERSION [SODA|SKILL|CHARACTER|DIMENSION]`
 42. Dimension 9
 43. Ruin
 44. Warrior's Dimension
-> 45+. Warrior's Dimension 2+
+45. Warrior's Dimension 2
+(ect)
