@@ -49,8 +49,8 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Coming soon...
 - If game is running, exit and restart it.
 ### 2. Steam's "Verify Integrity of Game Files..."
+- If game is running, exit it.
 - Repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
-- If game is running, exit and restart it.
 ### 3. Manual
 - Locate file: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed\Assembly-CSharp.dll`
 - Replace file with a backup/original version. There should be a backup in the same folder if you followed the installation correctly.
@@ -96,8 +96,8 @@ Format of versions: `SD2_VERSION SODAS>CHARACTERS>SKILLS`
 17. Mark
 18. Noxin
 19. Double Strike
-20. Shadow Slicer
-> 21+. Dimension 1+
+20. Shadow Slicer  
+*21+. Dimension 1+*
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com/)
