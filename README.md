@@ -79,10 +79,17 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Death tracker on-screen log.
 - Feature: Import scripts from text previously exported from this mod.
 - Feature: Opt-in dungeon party stats condensing (e.g. 100,000 = 100k).
-- FEATURE: Show owned item counts in Item Compendium book.
+- Feature: Show owned item counts in Item Compendium book.
+- Feature: Copy "Adventure Progress" full-stats to clipboard.
 - Fix: Reposition dungeon character stats to avoid being off screen or covered.
 - Fix: Improve fit of large numbers in Hire window.
-- FIX: Improve sorting of "Adventure Progress" items (sort by rarity).
+- Fix: Improve sorting of "Adventure Progress" items (sort by rarity).
+
+### Questionable Ideas
+- Feature: Essence fountain to start with max gold while leaving room for warp cost.
+- Feature: Ability to increase tick count for essence fountain.
+- Feature: Ability to increase tick count for relic leveling.
+
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com/)
