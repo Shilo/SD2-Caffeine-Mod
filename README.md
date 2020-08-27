@@ -23,7 +23,7 @@ The terms "safe" and "cheats" are subjective.
 By using this mod, you agree to the above terms.
 
 ## Compatibility Warning
-Only install this mod with the compatible SD2 version specified (for example, Caffeine Mod v1.0.5 Soda Junkie only supports SD2 v1.0.5). The numerical version of the mod will always match the version of the game. If you install the mod with an incompatible SD2 version, unwanted results will happen. The game will most likely freeze or crash. The game may also downgrade to an older SD2 version. If you happen to run into this issue, you can [uninstall the mod](https://github.com/Shilo/SD2-Caffeine-Mod/blob/master/README.md#uninstallation) to revert back to the original working game. Or you can repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
+Only install this mod with the compatible SD2 version specified (for example, Caffeine Mod v1.0.5.X only supports SD2 v1.0.5). The numerical version of the mod will always match the supported version of the game. If you install the mod with an incompatible SD2 version, unwanted results will happen. The game will most likely freeze or crash. The game may also downgrade to an older SD2 version. If you happen to run into this issue, you can [uninstall the mod](https://github.com/Shilo/SD2-Caffeine-Mod/blob/master/README.md#uninstallation) to revert back to the original working game. Or you can repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
 
 ## Download
 [Latest version](https://github.com/Shilo/SD2-Caffeine-Mod/releases)
@@ -73,10 +73,17 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Fix: Improve fit of large numbers in Hire window.
 - FIX: Improve sorting of "Adventure Progress" items (sort by rarity).
 
+## Special Thanks
+- [Shawn Tanner](https://www.sodadungeon.com/)
+- [Tilli](https://discord.gg/y93QchM)
+- [XenosTec](https://discord.gg/y93QchM)
+- [caviyacht](https://github.com/caviyacht)
+
 ## Versioning
-Format of versions: `SD2_VERSION SODA>CHARACTER>SKILL>DIMENSION`
-> Example: v1.0.5 Soda Junkie
+Format of versions: `SD2_VERSION.MOD_VERSION [SODA|SKILL|CHARACTER|DIMENSION]`
+> Example: v1.0.5.0 Dinner Boy
 ### Chronological Order
+0. Dinner Boy
 1. Soda Junkie
 2. Hammerin' Ale
 3. Quarry Quench
@@ -96,11 +103,29 @@ Format of versions: `SD2_VERSION SODA>CHARACTER>SKILL>DIMENSION`
 17. Mark
 18. Noxin
 19. Double Strike
-20. Shadow Slicer  
-> 21+. Dimension 1+
-
-## Special Thanks
-- [Shawn Tanner](https://www.sodadungeon.com/)
-- [Tilli](https://discord.gg/y93QchM)
-- [XenosTec](https://discord.gg/y93QchM)
-- [caviyacht](https://github.com/caviyacht)
+20. Shadow Slicer
+21. Healing Fairy
+22. The Janitor
+23. Chameleon Lord
+24. Lobster Lord
+25. The Darker Lord
+26. Mecha-Lord
+27. The Dark Lady
+28. Dark Dialer
+29. The Lord of Light
+30. Vacation Lord
+31. Grill of Darkness
+32. The Darkest Lord
+33. The Darkest One
+34. Dimension 1
+35. Dimension 2
+36. Dimension 3
+37. Dimension 4
+38. Dimension 5
+39. Dimension 6
+40. Dimension 7
+41. Dimension 8
+42. Dimension 9
+43. Ruin
+44. Warrior's Dimension
+> 45+. Warrior's Dimension 2+
