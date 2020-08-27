@@ -97,7 +97,7 @@ Format of versions: `SD2_VERSION SODAS>CHARACTERS>SKILLS`
 18. Noxin
 19. Double Strike
 20. Shadow Slicer
-- 21+. Dimension 1+
+> 21+. Dimension 1+
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com/)
