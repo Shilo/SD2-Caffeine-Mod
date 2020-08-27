@@ -34,7 +34,9 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Unzip downloaded folder.
 - Install with one of two methods:
 ### 1. Mod Auto Install
-- Coming soon...
+- Launch `install.bat`.
+- Press `Y` when prompted.
+- You should see a success message.
 - If game is running, exit and restart it.
 ### 2. Manual
 - Navigate to folder: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed\`
@@ -46,7 +48,9 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 > Note: If the game is updated, the mod will be automatically uninstalled.
 - Uninstall with one of three methods:
 ### 1. Mod Auto Uninstall
-- Coming soon...
+- Launch `uninstall.bat`.
+- Press `Y` when prompted.
+- You should see a success message if the mod was previously installed.
 - If game is running, exit and restart it.
 ### 2. Steam's "Verify Integrity of Game Files..."
 - If game is running, exit it.
