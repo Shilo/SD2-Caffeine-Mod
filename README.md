@@ -166,6 +166,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Interactive pixel art version of myself in tavern. @caviyacht
 - Feature: "Wood Mode" where dimension title shows as "Wood Dimension" and loot only shows "Wood" (maybe each count shows as a new stack). @caviyacht @Retropaint
 - Feature: Show visual effects (fireworks) at 1 million floor milestone.
+- Feature: Two eye balls that blink under staircase. @caviyacht
 
 #### Code
 - Prioritize hooks more. Minimize any core code changes by implementing 1 line method calls and add most code changes in my custom classes. (This will make code a lot more portable between SD2 updates.)
