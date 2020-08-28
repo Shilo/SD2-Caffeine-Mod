@@ -9,6 +9,29 @@ Guaranteed free, safe, and no cheats.
 > Compatible with Windows/Steam only.  
 > Official Mac OS X support in the future. It may work out of the box with "Manual" installation (not tested).
 
+## Table Of Contents
+- [Features](#features)
+- [Fixes](#fixes)
+- [Disclaimer:](#disclaimer)
+- [Compatibility Warning](#compatibility-warning)
+- [Download](#download)
+- [In-game Usage](#in-game-usage)
+- [Installation](#installation)
+  * [1. Mod Auto Install](#1-mod-auto-install)
+  * [2. Manual](#2-manual)
+- [Uninstallation](#uninstallation)
+  * [1. Mod Auto Uninstall](#1-mod-auto-uninstall)
+  * [2. Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files)
+  * [3. Manual](#3-manual)
+- [Roadmap](#roadmap)
+  * [Completed](#completed)
+  * [Incompleted](#incompleted)
+    + [Questionable Speed Improvements](#questionable-speed-improvements)
+    + [Fun](#fun)
+- [Special Thanks](#special-thanks)
+- [Versioning](#versioning)
+  * [Chronological Order](#chronological-order)
+  
 ## Features
 - Display realtime FPH and Warped FPH in dungeon run.
 - Export script with 'Copy Script To Clipboard' button in script menu.
@@ -25,7 +48,7 @@ The terms "safe" and "cheats" are subjective.
 By using this mod, you agree to the above terms.
 
 ## Compatibility Warning
-Only install this mod with the compatible SD2 version specified (for example, Caffeine Mod v1.0.5.X only supports SD2 v1.0.5). The numerical version of the mod will always match the supported version of the game. If you install the mod with an incompatible SD2 version, unwanted results will happen. The game will most likely freeze or crash. The game may also downgrade to an older SD2 version. If you happen to run into this issue, you can [uninstall the mod](https://github.com/Shilo/SD2-Caffeine-Mod/blob/master/README.md#uninstallation) to revert back to the original working game. Or you can repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
+Only install this mod with the compatible SD2 version specified (for example, Caffeine Mod v1.0.5.X only supports SD2 v1.0.5). The numerical version of the mod will always match the supported version of the game. If you install the mod with an incompatible SD2 version, unwanted results will happen. The game will most likely freeze or crash. The game may also downgrade to an older SD2 version. If you happen to run into this issue, you can [uninstall the mod](#uninstallation) to revert back to the original working game. Or you can repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
 
 ## Download
 [Latest version](https://github.com/Shilo/SD2-Caffeine-Mod/releases)
@@ -76,7 +99,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - ~~Feature: Export script with 'Copy Script To Clipboard' button in script menu.~~
 - ~~Feature: Customizable mod options.~~
 - ~~Fix: Improved character stats positions in party window.~~  
-[See details...](https://github.com/Shilo/SD2-Caffeine-Mod/blob/master/README.md#features)
+[See details...](#features)
 
 ### Incompleted
 - Feature: Click on FPH counters to toggle showing warped and non-warped floor counts.
@@ -125,7 +148,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Show visual effects (fireworks) at 1 million floor milestone.
 
 ## Special Thanks
-- [Shawn Tanner](https://www.sodadungeon.com/)
+- [Shawn Tanner](https://www.sodadungeon.com)
 - [Tilli](https://discord.gg/y93QchM)
 - [XenosTec](https://discord.gg/y93QchM)
 - [caviyacht](https://github.com/caviyacht)
