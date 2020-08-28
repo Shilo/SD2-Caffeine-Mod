@@ -1,5 +1,5 @@
 # Soda Dungeon 2 - Caffeine Mod [Windows/Steam]
-[![Caffeine](README/showcase.gif)](README)  
+[![Caffeine](README/showcase.gif)](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
 [Caffeine](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
 Author: [Shilo](https://github.com/Shilo)  
 
