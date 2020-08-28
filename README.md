@@ -69,6 +69,10 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - If game is running, exit and restart it.
 
 ## Potential Roadmap
+- Feature: Show "Best Fph" in record book (will use Warp Fph, if applicable). Requires a minimal of 1 hour runs. @anpShawn
+- Fix: If only "Warp Fph" is enabled, temporarily show "Fph" if no warps have been activated yet.
+- Feature: Show warped floor count in "Adventure Progress", after the manual cleared flors with "(+WARPED_FLOORS_COUNT)".
+- Fix: "Adventure Progress" timer should show time after 24 hours, and possibly seconds too. @Smgy
 - Feature: Show "essence gnome" essence earings during dungeon run instead of only at end. @caviyacht
 - Feature: Add "remaining gold" counter to essence fountain. @caviyacht
 - Testing: Test mod installation and usage on Mac OS X.
@@ -81,7 +85,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Export/import scripts with files and raw non-localized data format.
 - Feature: Import scripts from text previously copied to clipboard from this mod.
 - Feature: Hourly stats in "Adventure Progress" window.
-- Feature: Add an extra decimal place for big numbers (e.g. 1.5k = 1.52k).
+- Feature: Add an extra decimal place (or two extra) for big numbers (e.g. 1.5k = 1.52k).
 - Feature: Tab hotkey to toggle "Adventure Progress" visibility.
 - Feature: Show visual effects (fireworks) at 1 million floor milestone.
 - Feature: Play sound effect when run ends.
