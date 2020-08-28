@@ -160,6 +160,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Ability to increase tick count for essence fountain.
 - Feature: Ability to increase tick count for relic leveling.
 - Feature: Settings to allow constant arrow clicking on holding mouse down also, instead of only mouse up.
+- Feature: Move all Soda Junkies to the back of the tavern (infront of the stools) when they aren't enabled in the book.
 
 #### Fun
 - Feature: cosmetic secret secret. @caviyacht
