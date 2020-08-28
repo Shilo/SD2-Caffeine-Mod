@@ -33,13 +33,13 @@ Guaranteed free, safe, and no cheats.
 - [Special Thanks](#special-thanks)
 - [Versioning](#versioning)
   * [Chronological Order](#chronological-order)
-  
-## Features
+
+## Changes
+
+### Features
 - Display realtime FPH and Warped FPH in dungeon run.
 - Export script with 'Copy Script To Clipboard' button in script menu.
 - Customizable mod options.
-
-## Changes
 
 ### Fixes
 - Improved character stats positions in party window.
