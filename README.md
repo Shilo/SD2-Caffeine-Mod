@@ -70,7 +70,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 
 ## Potential Roadmap
 - Feature: Add "Fullscreen Windowed" option in SD2's advanced options window.
-- Feature: Additional settings page that will toggle off individial UI elements during dungeon run. Maybe even a "Hardcore" or "Camera" mode that turns off all UI elements besides the bottom buttons. @Darzk
+- Feature: Additional settings page that will toggle off individial UI elements during dungeon run. Maybe even a "Hardcore" or "Camera" mode that turns off all UI elements besides the bottom buttons for dungeon run and town. @Darzk
 - Feature: "Show FPS" setting to enable the built-in debug fps counter.
 - Fix: Remove "Defend" dropdown option when selecting action for "self" and "ally" target. (Since defend doesn't work when targetting self/ally.) @ElJay
 - Feature: Show "Best Fph" in record book (will use Warp Fph, if applicable). Requires a minimal of 1 hour runs. @anpShawn
