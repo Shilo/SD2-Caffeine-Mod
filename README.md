@@ -110,9 +110,9 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 
 #### General
 - Feature: Add "remaining gold" counter to essence fountain. @caviyacht
-- Feature: Change essence fountain "remaining gold" text to red when not enough gold to warp.
-- Feature: Change warp gold text to red when not enough gold to use warp.
-- Feature: Icon button to select highest afforable floor button at warp.
+- Feature: Change essence fountain "remaining gold" text to red when not enough gold to warp to highest floor.
+- Feature: Change warp gold text to red when not enough gold to use desired warp.
+- Feature: Warp screen icon button to select highest afforable floor button at warp.
 - Feature: Click on FPH counters to toggle showing warped and non-warped floor counts.
 - Feature: Add "Fullscreen Windowed" option in SD2's advanced options window.
 - Feature: Additional settings page that will toggle off individial UI elements during dungeon run. Maybe even a "Hardcore" or "Camera" mode that turns off all UI elements besides the bottom buttons for dungeon run and town. @Darzk
@@ -152,10 +152,10 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 #### Town Productivity (Opt-In)
 > These would be disabled by default and opt-in options.  
 > Seperate "Town Productivity" settings page with a lock icon.
-> Attempting to unlock specific page will warn the use that it affects "Town Productivity", and asks if they want to continue.  
+> Attempting to unlock specific page will warn the user that it affects "Town Productivity", and asks if user wants to continue.  
 > If user confirms to unlock feature. The Caffeine option button will permanently turn orange instead of green. The warning will never show again on further lock changes.  
-> This is not to shame users who use the feature, but only to credit the users who want to keep a vanilla experience.
-> Also allow users to re-lock options page.
+> This is not to shame users who use the feature(s), but only to credit the users who want to keep a vanilla experience.  
+> Also allow users to re-lock options page. (Relocking will not change options button back to green.)
 - Feature: Essence fountain to start with max gold minus warp cost. So you can keep enough gold to warp.
 - Feature: Ability to increase tick count for essence fountain.
 - Feature: Ability to increase tick count for relic leveling.
@@ -168,7 +168,8 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Show visual effects (fireworks) at 1 million floor milestone.
 
 #### Code
-- Prioritize hooks more. Minimize any core code changes by implementing 1 line method calls and add most code changes in my custom classes. (This will make code a lot more portable between 
+- Prioritize hooks more. Minimize any core code changes by implementing 1 line method calls and add most code changes in my custom classes. (This will make code a lot more portable between
+- Possibly export to Visual Studio for better code and revision management.
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com)
