@@ -1,5 +1,5 @@
 # Soda Dungeon 2 - Caffeine Mod [Windows/Steam]
-[![Caffeine](README/showcase.gif)](README/)  
+[![Caffeine](README/showcase.gif)](README)  
 [Caffeine](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
 Author: [Shilo](https://github.com/Shilo)  
 
@@ -10,8 +10,9 @@ Guaranteed free, safe, and no cheats.
 > Official Mac OS X support in the future. It may work out of the box with "Manual" installation (not tested).
 
 ## Table Of Contents
-- [Features](#features)
-- [Fixes](#fixes)
+- [Changes](#changes)
+  * [Features](#features)
+  * [Fixes](#fixes)
 - [Disclaimer](#disclaimer)
 - [Compatibility Warning](#compatibility-warning)
 - [Download](#download)
@@ -55,7 +56,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 [Latest version](https://github.com/Shilo/SD2-Caffeine-Mod/releases)
 
 ## In-game Usage
-- Open options and about window by clicking the ![Logo](README/logo.png) button at bottom-right of the game.
+- Open options and about window by clicking the [![Options](README/logo.png)](README/options.png) button at bottom-right of the game.
 - Toggle options to turn on/off features and fixes.
 - Enjoy the caffeine rush!
 
@@ -100,7 +101,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - ~~Feature: Export script with 'Copy Script To Clipboard' button in script menu.~~
 - ~~Feature: Customizable mod options.~~
 - ~~Fix: Improved character stats positions in party window.~~  
-[See details...](#features)
+[See detailed changes...](#changes)
 
 ### Incompleted
 
