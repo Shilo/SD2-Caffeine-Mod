@@ -69,7 +69,15 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - If game is running, exit and restart it.
 
 ## Potential Roadmap
+- Testing: Test mod installation and usage on Mac OS X.
+- Testing: Find someone to test installation and usage on Linux.
+- Feature: Improve Windows installer/uninstaller to dynamically find Steam folder location (and possibly allow specifying the location).
+- Feature: Add Mac OS X installer and release zip (with cmd files).
+- Feature: Add Linux installer and release zip (with text files explaining how to manually setup).
+- Documentation: Add specific Windows, Mac, Linux install/uninstall instructions.
 - Feature: Uninstall mod button in options.
+- Feature: Export/import scripts with files and raw non-localized data format.
+- Feature: Import scripts from text previously copied to clipboard from this mod.
 - Feature: Hourly stats in "Adventure Progress" window.
 - Feature: Add an extra decimal place for big numbers (e.g. 1.5k = 1.52k).
 - Feature: Tab hotkey to toggle "Adventure Progress" visibility.
@@ -77,8 +85,8 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Play sound effect when run ends.
 - Feature: Allow relic window viewing in dungeon run.
 - Feature: Allow party window viewing in dungeon run.
+- Feature: Allow book window viewing in dungeon run.
 - Feature: Death tracker on-screen log.
-- Feature: Import scripts from text previously exported from this mod.
 - Feature: Opt-in dungeon party stats condensing (e.g. 100,000 = 100k).
 - Feature: Show owned item counts in Item Compendium book.
 - Feature: Copy "Adventure Progress" full-stats to clipboard.
