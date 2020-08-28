@@ -28,7 +28,7 @@ Guaranteed free, safe, and no cheats.
   * [Completed](#completed)
   * [Incompleted](#incompleted)
     + [General](#general)
-    + [Speed Improvements (Opt-In)](#speed-improvements-opt-in)
+    + [Town Productivity (Opt-In)](#town-productivity-opt-in)
     + [Fun](#fun)
     + [Code](#code)
 - [Special Thanks](#special-thanks)
@@ -149,7 +149,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Fix: Improve sorting of "Adventure Progress" items (sort by rarity).
 - Feature: Organize and improve options window with tabs, checkboxes, and scrollviews to allow for infinite settings without users getting or overwhelmed.
 
-#### Speed Improvements (Opt-In)
+#### Town Productivity (Opt-In)
 > These would be disabled by default and opt-in options.  
 > Seperate "Town Productivity" settings page with a lock icon.
 > Attempting to unlock specific page will warn the use that it affects "Town Productivity", and asks if they want to continue.  
