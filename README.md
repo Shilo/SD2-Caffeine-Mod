@@ -69,7 +69,8 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - If game is running, exit and restart it.
 
 ## Potential Roadmap
-- Feature: Add "remaining gold" counter to essence fountain.
+- Feature: Show "essence gnome" essence earings during dungeon run instead of only at end. @caviyacht
+- Feature: Add "remaining gold" counter to essence fountain. @caviyacht
 - Testing: Test mod installation and usage on Mac OS X.
 - Testing: Find someone to test installation and usage on Linux.
 - Feature: Improve Windows installer/uninstaller to dynamically find Steam folder location (and possibly allow specifying the location).
@@ -99,6 +100,9 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Essence fountain to start with max gold while leaving room for warp cost.
 - Feature: Ability to increase tick count for essence fountain.
 - Feature: Ability to increase tick count for relic leveling.
+
+### Fun Ideas
+- Feature: "Wood Mode" where dimension title shows as "Wood Dimension" and loot only shows "Wood" (maybe each count shows as a new stack). @caviyacht @Retropaint
 
 [Submit feature and bug fix requests on issues page.](https://github.com/Shilo/SD2-Caffeine-Mod/issues)
 
