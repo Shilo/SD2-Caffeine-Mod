@@ -69,6 +69,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - If game is running, exit and restart it.
 
 ## Potential Roadmap
+- Feature: Click on FPH counters to toggle showing warped and non-warped floor counts.
 - Feature: Add "Fullscreen Windowed" option in SD2's advanced options window.
 - Feature: Additional settings page that will toggle off individial UI elements during dungeon run. Maybe even a "Hardcore" or "Camera" mode that turns off all UI elements besides the bottom buttons for dungeon run and town. @Darzk
 - Feature: "Show FPS" setting to enable the built-in debug fps counter.
