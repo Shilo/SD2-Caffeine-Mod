@@ -78,7 +78,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - ~~Fix: Improved character stats positions in party window.~~  
 [See details...](https://github.com/Shilo/SD2-Caffeine-Mod/blob/master/README.md#features)
 
-### Incomplete
+### Incompleted
 - Feature: Click on FPH counters to toggle showing warped and non-warped floor counts.
 - Feature: Add "Fullscreen Windowed" option in SD2's advanced options window.
 - Feature: Additional settings page that will toggle off individial UI elements during dungeon run. Maybe even a "Hardcore" or "Camera" mode that turns off all UI elements besides the bottom buttons for dungeon run and town. @Darzk
