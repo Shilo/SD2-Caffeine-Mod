@@ -69,6 +69,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - If game is running, exit and restart it.
 
 ## Potential Roadmap
+- Feature: Add "remaining gold" counter to essence fountain.
 - Testing: Test mod installation and usage on Mac OS X.
 - Testing: Find someone to test installation and usage on Linux.
 - Feature: Improve Windows installer/uninstaller to dynamically find Steam folder location (and possibly allow specifying the location).
