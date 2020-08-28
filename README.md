@@ -69,6 +69,8 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - If game is running, exit and restart it.
 
 ## Potential Roadmap
+[Submit feature and bug fix requests on issues page.](https://github.com/Shilo/SD2-Caffeine-Mod/issues)
+
 ### Completed
 Coming soon...
 
@@ -117,8 +119,6 @@ Coming soon...
 #### Fun
 - Feature: "Wood Mode" where dimension title shows as "Wood Dimension" and loot only shows "Wood" (maybe each count shows as a new stack). @caviyacht @Retropaint
 - Feature: Show visual effects (fireworks) at 1 million floor milestone.
-
-[Submit feature and bug fix requests on issues page.](https://github.com/Shilo/SD2-Caffeine-Mod/issues)
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com/)
