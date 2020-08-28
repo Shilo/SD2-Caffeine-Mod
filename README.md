@@ -69,6 +69,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - If game is running, exit and restart it.
 
 ## Potential Roadmap
+- Fix: Remove "Defend" dropdown option when selecting action for "self" and "ally" target. (Since defend doesn't work when targetting self/ally.) @ElJay
 - Feature: Show "Best Fph" in record book (will use Warp Fph, if applicable). Requires a minimal of 1 hour runs. @anpShawn
 - Fix: If only "Warp Fph" is enabled, temporarily show "Fph" if no warps have been activated yet.
 - Feature: Show warped floor count in "Adventure Progress", after the manual cleared flors with "(+WARPED_FLOORS_COUNT)".
