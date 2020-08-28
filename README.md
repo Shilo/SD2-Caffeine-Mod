@@ -1,4 +1,4 @@
-# Soda Dungeon 2 - Caffeine Mod [PC]
+# Soda Dungeon 2 - Caffeine Mod [Windows/Steam]
 [![Caffeine](README/showcase.gif)](README/)  
 [Caffeine](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
 Author: [Shilo](https://github.com/Shilo)  
@@ -6,7 +6,8 @@ Author: [Shilo](https://github.com/Shilo)
 Caffeine Mod boosts Soda Dungeon 2's energy and smartness.  
 Includes quality of life features and fixes.  
 Guaranteed free, safe, and no cheats.  
-> Compatible with PC/Steam only
+> Compatible with Window/Steam only.
+> Official Mac OS X support in the future. It may work out of the box with "Manual" installation (not tested).
 
 ## Features
 - Display realtime FPH and Warped FPH in dungeon run.
