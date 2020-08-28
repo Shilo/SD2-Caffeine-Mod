@@ -72,11 +72,11 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 [Submit ideas, feature and bug fix requests on issues page.](https://github.com/Shilo/SD2-Caffeine-Mod/issues)
 
 ### Completed
-~~
 - ~~Feature: Display realtime FPH and Warped FPH in dungeon run.~~
 - ~~Feature: Export script with 'Copy Script To Clipboard' button in script menu.~~
 - ~~Feature: Customizable mod options.~~
 - ~~Fix: Improved character stats positions in party window.~~
+[See details...](https://github.com/Shilo/SD2-Caffeine-Mod/blob/master/README.md#features)
 
 ### Incomplete
 - Feature: Click on FPH counters to toggle showing warped and non-warped floor counts.
