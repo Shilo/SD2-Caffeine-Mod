@@ -6,7 +6,7 @@ Author: [Shilo](https://github.com/Shilo)
 Caffeine Mod boosts Soda Dungeon 2's energy and smartness.  
 Includes quality of life features and fixes.  
 Guaranteed free, safe, and no cheats.  
-> Compatible with Window/Steam only.  
+> Compatible with Windows/Steam only.  
 > Official Mac OS X support in the future. It may work out of the box with "Manual" installation (not tested).
 
 ## Features
