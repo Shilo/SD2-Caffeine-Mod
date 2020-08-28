@@ -39,10 +39,12 @@ Guaranteed free, safe, and no cheats.
 - Export script with 'Copy Script To Clipboard' button in script menu.
 - Customizable mod options.
 
-## Fixes
+## Changes
+
+### Fixes
 - Improved character stats positions in party window.
 
-## Disclaimer
+### Disclaimer
 All code and rights belong to their respective owners: AN Productions, Poxpower, Armor Games Studios or other.  
 I take no credit for any of the original code and assets.  
 Use this mod at your own risk: I am not responsible for any results of using this mod.  
