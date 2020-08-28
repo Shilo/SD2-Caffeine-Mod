@@ -90,9 +90,10 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Tab hotkey to toggle "Adventure Progress" visibility.
 - Feature: Show visual effects (fireworks) at 1 million floor milestone.
 - Feature: Play sound effect when run ends.
-- Feature: Allow relic window viewing in dungeon run.
-- Feature: Allow party window viewing in dungeon run.
-- Feature: Allow book window viewing in dungeon run.
+- Feature: Allow relic window viewing while in dungeon run.
+- Feature: Allow party window viewing while in dungeon run.
+- Feature: Allow book window viewing while in dungeon run.
+- Feature: Allow soda script viewing/copying while in dungeon run.
 - Feature: Death tracker on-screen log.
 - Feature: Opt-in dungeon party stats condensing (e.g. 100,000 = 100k).
 - Feature: Show owned item counts in Item Compendium book.
