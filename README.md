@@ -69,6 +69,10 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - If game is running, exit and restart it.
 
 ## Potential Roadmap
+### Completed
+Coming soon...
+
+### Incomplete
 - Feature: Click on FPH counters to toggle showing warped and non-warped floor counts.
 - Feature: Add "Fullscreen Windowed" option in SD2's advanced options window.
 - Feature: Additional settings page that will toggle off individial UI elements during dungeon run. Maybe even a "Hardcore" or "Camera" mode that turns off all UI elements besides the bottom buttons for dungeon run and town. @Darzk
@@ -92,7 +96,6 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Hourly stats in "Adventure Progress" window.
 - Feature: Add an extra decimal place (or two extra) for big numbers (e.g. 1.5k = 1.52k).
 - Feature: Tab hotkey to toggle "Adventure Progress" visibility.
-- Feature: Show visual effects (fireworks) at 1 million floor milestone.
 - Feature: Play sound effect when run ends.
 - Feature: Allow relic window viewing while in dungeon run.
 - Feature: Allow party window viewing while in dungeon run.
@@ -106,13 +109,14 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Fix: Improve fit of large numbers in Hire window.
 - Fix: Improve sorting of "Adventure Progress" items (sort by rarity).
 
-### Questionable Ideas
+#### Questionable Speed Improvements
 - Feature: Essence fountain to start with max gold while leaving room for warp cost.
 - Feature: Ability to increase tick count for essence fountain.
 - Feature: Ability to increase tick count for relic leveling.
 
-### Fun Ideas
+#### Fun
 - Feature: "Wood Mode" where dimension title shows as "Wood Dimension" and loot only shows "Wood" (maybe each count shows as a new stack). @caviyacht @Retropaint
+- Feature: Show visual effects (fireworks) at 1 million floor milestone.
 
 [Submit feature and bug fix requests on issues page.](https://github.com/Shilo/SD2-Caffeine-Mod/issues)
 
