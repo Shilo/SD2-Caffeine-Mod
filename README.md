@@ -148,6 +148,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Fix: Improve fit of large numbers in Hire window.
 - Fix: Improve sorting of "Adventure Progress" items (sort by rarity).
 - Feature: Organize and improve options window with tabs, checkboxes, and scrollviews to allow for infinite settings without users getting or overwhelmed.
+- Feature: A new page in record book for caffeine mod related stats.
 
 #### Town Productivity (Opt-In)
 > These would be disabled by default and opt-in options.  
@@ -163,7 +164,8 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Move all Soda Junkies to the back of the tavern (infront of the stools) when they aren't enabled in the book.
 
 #### Fun
-- Feature: cosmetic secret secret. @caviyacht
+- Feature: Caffeine top secret (easter egg). @caviyacht
+- Feature: Record book stat "Caffeine Top Secret Uncovered" with count.
 - Feature: Interactive pixel art version of myself in tavern. @caviyacht
 - Feature: "Wood Mode" where dimension title shows as "Wood Dimension" and loot only shows "Wood" (maybe each count shows as a new stack). @caviyacht @Retropaint
 - Feature: Show visual effects (fireworks) at 1 million floor milestone.
