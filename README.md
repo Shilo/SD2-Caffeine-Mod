@@ -108,6 +108,10 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 ### Incompleted
 
 #### General
+- Feature: Add "remaining gold" counter to essence fountain. @caviyacht
+- Feature: Change essence fountain "remaining gold" text to red when not enough gold to warp.
+- Feature: Change warp gold text to red when not enough gold to use warp.
+- Feature: Icon button to select highest afforable floor button at warp.
 - Feature: Click on FPH counters to toggle showing warped and non-warped floor counts.
 - Feature: Add "Fullscreen Windowed" option in SD2's advanced options window.
 - Feature: Additional settings page that will toggle off individial UI elements during dungeon run. Maybe even a "Hardcore" or "Camera" mode that turns off all UI elements besides the bottom buttons for dungeon run and town. @Darzk
@@ -118,7 +122,6 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Show warped floor count in "Adventure Progress", after the manual cleared flors with "(+WARPED_FLOORS_COUNT)".
 - Fix: "Adventure Progress" timer should show time after 24 hours, and possibly seconds too. @Smgy
 - Feature: Show "essence gnome" essence earings during dungeon run instead of only at end. @caviyacht
-- Feature: Add "remaining gold" counter to essence fountain. @caviyacht
 - Testing: Test mod installation and usage on Mac OS X.
 - Testing: Find someone to test installation and usage on Linux.
 - Feature: Improve Windows installer/uninstaller to dynamically find Steam folder location (and possibly allow specifying the location).
@@ -143,15 +146,28 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Fix: Reposition dungeon character stats to avoid being off screen or covered.
 - Fix: Improve fit of large numbers in Hire window.
 - Fix: Improve sorting of "Adventure Progress" items (sort by rarity).
+- Feature: Organize and improve options window with tabs, checkboxes, and scrollviews to allow for infinite settings without users getting or overwhelmed.
 
-#### Questionable Speed Improvements
-- Feature: Essence fountain to start with max gold while leaving room for warp cost.
+#### Speed Improvements (Opt-In)
+> These would be disabled by default and opt-in options.  
+> Seperate "Town Productivity" settings page with a lock icon.
+> Attempting to unlock specific page will warn the use that it affects "Town Productivity", and asks if they want to continue.  
+> If user confirms to unlock feature. The Caffeine option button will permanently turn orange instead of green. The warning will never show again on further lock changes.  
+> This is not to shame users who use the feature, but only to credit the users who want to keep a vanilla experience.
+> Also allow users to re-lock options page.
+- Feature: Essence fountain to start with max gold minus warp cost. So you can keep enough gold to warp.
 - Feature: Ability to increase tick count for essence fountain.
 - Feature: Ability to increase tick count for relic leveling.
+- Feature: Settings to allow constant arrow clicking on holding mouse down also, instead of only mouse up.
 
 #### Fun
+- Feature: cosmetic secret secret. @caviyacht
+- Feature: Interactive pixel art version of myself in tavern. @caviyacht
 - Feature: "Wood Mode" where dimension title shows as "Wood Dimension" and loot only shows "Wood" (maybe each count shows as a new stack). @caviyacht @Retropaint
 - Feature: Show visual effects (fireworks) at 1 million floor milestone.
+
+#### Code
+- Prioritize hooks more. Minimize any core code changes by implementing 1 line method calls and add most code changes in my custom classes. (This will make code a lot more portable between 
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com)
