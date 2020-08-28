@@ -168,7 +168,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Show visual effects (fireworks) at 1 million floor milestone.
 
 #### Code
-- Prioritize hooks more. Minimize any core code changes by implementing 1 line method calls and add most code changes in my custom classes. (This will make code a lot more portable between
+- Prioritize hooks more. Minimize any core code changes by implementing 1 line method calls and add most code changes in my custom classes. (This will make code a lot more portable between SD2 updates.)
 - Possibly export to Visual Studio for better code and revision management.
 
 ## Special Thanks
