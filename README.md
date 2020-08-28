@@ -26,6 +26,7 @@ Guaranteed free, safe, and no cheats.
 - [Roadmap](#roadmap)
   * [Completed](#completed)
   * [Incompleted](#incompleted)
+    + [General](#general)
     + [Questionable Speed Improvements](#questionable-speed-improvements)
     + [Fun](#fun)
 - [Special Thanks](#special-thanks)
@@ -102,6 +103,8 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 [See details...](#features)
 
 ### Incompleted
+
+#### General
 - Feature: Click on FPH counters to toggle showing warped and non-warped floor counts.
 - Feature: Add "Fullscreen Windowed" option in SD2's advanced options window.
 - Feature: Additional settings page that will toggle off individial UI elements during dungeon run. Maybe even a "Hardcore" or "Camera" mode that turns off all UI elements besides the bottom buttons for dungeon run and town. @Darzk
