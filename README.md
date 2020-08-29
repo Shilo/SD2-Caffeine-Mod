@@ -147,6 +147,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Opt-in dungeon party stats condensing (e.g. 100,000 = 100k).
 - Feature: Show owned item counts in Item Compendium book.
 - Feature: Copy "Adventure Progress" full-stats to clipboard.
+- Feature: Lower brightness of Throne Room.
 - Fix: Reposition dungeon character stats to avoid being off screen or covered.
 - Fix: Improve fit of large numbers in Hire window.
 - Fix: Improve sorting of "Adventure Progress" items (sort by rarity).
@@ -172,6 +173,12 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Interactive pixel art version of myself in tavern. @caviyacht
 - Feature: "Wood Mode" where dimension title shows as "Wood Dimension" and loot only shows "Wood" (maybe each count shows as a new stack). @caviyacht @Retropaint
 - Feature: Show visual effects (fireworks) at 1 million floor milestone.
+- Feature: Add physics to tavern characters and allow drag/drop with mouse to them around.
+- Feature: Hardcore mode that hides UI and increases difficulty.
+  - Add text to indicate mode.
+  - Skip first round of each battle to get attacked every floor.
+  - Possibly increase or only have ambush battles. This would require balancing, such as removing increased ambush gold and maybe even lowering overall gold income because ambushes have an increased mob count. 
+  - Maybe add some reward/incentive for playing this mode.
 
 #### Code
 - Prioritize hooks more. Minimize any core code changes by implementing 1 line method calls and add most code changes in my custom classes. (This will make code a lot more portable between SD2 updates.)
