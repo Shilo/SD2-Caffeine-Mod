@@ -1,13 +1,13 @@
 # Soda Dungeon 2 - Caffeine Mod [Windows/Steam]
-[![Caffeine](README/showcase.gif)](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
-[Caffeine](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
-Author: [Shilo](https://github.com/Shilo)  
+[![Caffeine](README/showcase.gif)](#download)  
 
 Caffeine Mod boosts Soda Dungeon 2's energy and smartness.  
 Includes quality of life features and fixes.  
 Guaranteed free, safe, and no cheats.  
 > Compatible with Windows/Steam only.  
-> Official Mac OS X support in the future. It may work out of the box with "Manual" installation (not tested).
+> Official Mac OS X support in the future. It may work out of the box with "Manual" installation (not tested).  
+
+Author: [Shilo](https://github.com/Shilo)  
 
 ## Table Of Contents
 - [Changes](#changes)
@@ -56,7 +56,10 @@ By using this mod, you agree to the above terms.
 Only install this mod with the compatible SD2 version specified (for example, Caffeine Mod v1.0.5.X only supports SD2 v1.0.5). The numerical version of the mod will always match the supported version of the game. If you install the mod with an incompatible SD2 version, unwanted results will happen. The game will most likely freeze or crash. The game may also downgrade to an older SD2 version. If you happen to run into this issue, you can [uninstall the mod](#uninstallation) to revert back to the original working game. Or you can repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
 
 ## Download
-[Latest version](https://github.com/Shilo/SD2-Caffeine-Mod/releases)
+[![Options](README/logo.png)](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest/download/SD2-Caffeine-Mod.zip)
+- Navigate to [latest version](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest).
+- Scroll down to "Assets" and click the first link named "[SD2-Caffeine-Mod](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest/download/SD2-Caffeine-Mod.zip)".
+> Source code links are irrelevant as it is just the [documentation](/) only.
 
 ## In-game Usage
 - Open options and about window by clicking the [![Options](README/logo.png)](README/options.png) button at bottom-right of the game.
@@ -65,7 +68,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 
 ## Installation
 > Note: If the game is updated, the mod will be automatically uninstalled.
-- Download the [mod here](https://github.com/Shilo/SD2-Caffeine-Mod/releases).
+- [Download](#download) the latest version.
 - Unzip downloaded folder.
 - Install with one of two methods:
 ### 1. Mod Auto Install
