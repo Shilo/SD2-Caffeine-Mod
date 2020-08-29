@@ -58,7 +58,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 ## Download
 [![Options](README/logo.png) SD2-Caffeine-Mod.zip](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest/download/SD2-Caffeine-Mod.zip)
 - Navigate to [latest version](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest).
-- Scroll down to "Assets" and click the first link named "[SD2-Caffeine-Mod.zip](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest/download/SD2-Caffeine-Mod.zip)".
+- Scroll down to "Assets" and open the first link named "[SD2-Caffeine-Mod.zip](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest/download/SD2-Caffeine-Mod.zip)".
 > Source code links are irrelevant as it is just the [documentation](https://github.com/Shilo/SD2-Caffeine-Mod) only.
 
 ## In-game Usage
