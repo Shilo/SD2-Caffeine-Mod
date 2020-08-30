@@ -27,6 +27,7 @@ Author: [Shilo](https://github.com/Shilo)
   * [3. Manual](#3-manual)
 - [Roadmap](#roadmap)
   * [Completed](#completed)
+    + [General](#general)
   * [Incompleted](#incompleted)
     + [General](#general)
     + [Town Productivity (Opt-In)](#town-productivity-opt-in)
@@ -108,11 +109,13 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 [Submit ideas, feature and bug fix requests on issues page.](https://github.com/Shilo/SD2-Caffeine-Mod/issues)
 
 ### Completed
+[See detailed changes...](#changes)
+
+#### General
 - ~~Feature: Display realtime FPH and Warped FPH in dungeon run.~~
 - ~~Feature: Export script with 'Copy Script To Clipboard' button in script menu.~~
 - ~~Feature: Customizable mod options.~~
 - ~~Fix: Improved character stats positions in party window.~~  
-[See detailed changes...](#changes)
 
 ### Incompleted
 
