@@ -121,6 +121,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 ### Incompleted
 
 #### General
+- Fix: Remove mouse over effect on Tavern stairs because theres no interaction with it anymore.
 - Fix: Improve fit of large numbers in Hire window.
 - Feature: Add "remaining gold" counter to essence fountain. @caviyacht
 - Feature: Change essence fountain "remaining gold" text to red when not enough gold to warp to highest floor.
