@@ -1,6 +1,7 @@
 # Soda Dungeon 2 - Caffeine Mod [Windows/Steam]
 [![Caffeine](README/showcase.gif)](#download)  
 
+[![Caffeine](README/logo.png)](#download)  
 Caffeine Mod boosts [Soda Dungeon 2](https://www.sodadungeon.com/)'s energy and smartness.  
 Includes quality of life features and fixes.  
 Guaranteed free, safe, and no cheats.  
