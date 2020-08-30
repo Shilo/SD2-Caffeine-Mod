@@ -117,6 +117,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 ### Incompleted
 
 #### General
+- Fix: Improve fit of large numbers in Hire window.
 - Feature: Add "remaining gold" counter to essence fountain. @caviyacht
 - Feature: Change essence fountain "remaining gold" text to red when not enough gold to warp to highest floor.
 - Feature: Change warp gold text to red when not enough gold to use desired warp.
@@ -154,7 +155,6 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Copy "Adventure Progress" full-stats to clipboard.
 - Feature: Lower brightness of Throne Room.
 - Fix: Reposition dungeon character stats to avoid being off screen or covered.
-- Fix: Improve fit of large numbers in Hire window.
 - Fix: Improve sorting of "Adventure Progress" items (sort by rarity).
 - Feature: Organize and improve options window with tabs, checkboxes, and scrollviews to allow for infinite settings without users getting or overwhelmed.
 - Feature: A new page in record book for caffeine mod related stats.
@@ -186,8 +186,12 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
   - Maybe add some reward/incentive for playing this mode.
 
 #### Code
-- Prioritize hooks more. Minimize any core code changes by implementing 1 line method calls and add most code changes in my custom classes. (This will make code a lot more portable between SD2 updates.)
-- Possibly export to Visual Studio for better code and revision management.
+- Feature: Create class that holds images with base64 strings.
+- Feature: Create create debug class that will export logs and gameobject/component recursive logs to debug file.
+- Feature: Investigate event add and remove listener code. (Maybe move to "AttachToAdventure" method.)
+- Feature: Rewrite code/project from scratch.
+- Feature: Prioritize hooks more. Minimize any core code changes by implementing 1 line method calls and add most code changes in my custom classes. (This will make code a lot more portable between SD2 updates.)
+- Feature: Possibly export to Visual Studio for better code and revision management.
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com)
