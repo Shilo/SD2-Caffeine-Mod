@@ -199,10 +199,10 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com) for creating SD2 and allowing this mod and community to thrive.
 - [Kubis_sakti](https://www.fiverr.com/kubis_sakti) for helping create beautiful high-quality character.
-- [Nikoleta Jovanovic](https://www.artstation.com/niko-art) for helping create lovely high-quality logo. 
+- [Nikoleta Jovanovic](https://www.artstation.com/niko-art) for helping create lovely high-quality logo.
+- [caviyacht](https://github.com/caviyacht) for the very appreciated help and support behind the scenes.
 - [Tilli](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes.
 - [XenosTec](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes.
-- [caviyacht](https://github.com/caviyacht) for the very appreciated help and support behind the scenes.
 
 ## Versioning
 Format of versions: `SD2_VERSION.MOD_VERSION [SODA|SKILL|CHARACTER|DIMENSION]`
