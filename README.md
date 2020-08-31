@@ -118,6 +118,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - ~~Feature: Customizable mod options.~~
 - ~~Fix: Improved character stats positions in party window.~~ 
 - ~~Fix: If only "Warp Fph" is enabled, temporarily show "Fph" if no warps have been activated yet.~~
+- ~~- Style: Minor layout changes.~~
 
 ##### Code
 - ~~Feature: Investigate event add and remove listener code. (Maybe move to "AttachToAdventure" method.)~~
