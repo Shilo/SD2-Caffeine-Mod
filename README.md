@@ -116,7 +116,15 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - ~~Feature: Display realtime FPH and Warped FPH in dungeon run.~~
 - ~~Feature: Export script with 'Copy Script To Clipboard' button in script menu.~~
 - ~~Feature: Customizable mod options.~~
-- ~~Fix: Improved character stats positions in party window.~~  
+- ~~Fix: Improved character stats positions in party window.~~ 
+- ~~Fix: If only "Warp Fph" is enabled, temporarily show "Fph" if no warps have been activated yet.~~
+
+##### Code
+- ~~Feature: Investigate event add and remove listener code. (Maybe move to "AttachToAdventure" method.)~~
+- ~~Feature: Embed images into project instead of base64 strings.~~
+- ~~Feature: Rewrite code/project from scratch.~~
+- ~~Feature: Prioritize hooks more. Minimize any core code changes by implementing 1 line method calls and add most code changes in my custom classes. (This will make code a lot more portable between SD2 updates.)~~
+- ~~Feature: Possibly export to Visual Studio for better code and revision management.~~
 
 ### Incompleted
 
@@ -133,7 +141,6 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: "Show FPS" setting to enable the built-in debug fps counter.
 - Fix: Remove "Defend" dropdown option when selecting action for "self" and "ally" target. (Since defend doesn't work when targetting self/ally.) @ElJay
 - Feature: Show "Best Fph" in record book (will use Warp Fph, if applicable). Requires a minimal of 1 hour runs. @anpShawn
-- Fix: If only "Warp Fph" is enabled, temporarily show "Fph" if no warps have been activated yet.
 - Feature: Show warped floor count in "Adventure Progress", after the manual cleared flors with "(+WARPED_FLOORS_COUNT)".
 - Fix: "Adventure Progress" timer should show time after 24 hours, and possibly seconds too. @Smgy
 - Feature: Show "essence gnome" essence earings during dungeon run instead of only at end. @caviyacht
@@ -191,12 +198,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
   - Maybe add some reward/incentive for playing this mode.
 
 #### Code
-- Feature: Create class that holds images with base64 strings.
 - Feature: Create create debug class that will export logs and gameobject/component recursive logs to debug file.
-- Feature: Investigate event add and remove listener code. (Maybe move to "AttachToAdventure" method.)
-- Feature: Rewrite code/project from scratch.
-- Feature: Prioritize hooks more. Minimize any core code changes by implementing 1 line method calls and add most code changes in my custom classes. (This will make code a lot more portable between SD2 updates.)
-- Feature: Possibly export to Visual Studio for better code and revision management.
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com) for creating SD2 and allowing this mod and community to thrive.
