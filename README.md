@@ -130,6 +130,25 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 ### Incompleted
 
 #### General
+- Feature: More user friendly file changes.
+  - Add "Modded by Caffeine vX X" in "File description" meta data of DLL file.
+  - URL Shortcut to VirusTotal scan report webpage.
+  - MD5 file to readme file, release page, and zip file.
+- Feature: Add "Changelog" button to About window and "Changelog" section in readme file.
+- Feature: Add report button in "Adventure Progress" which will open a detailed report window. Inside the report window, have a "Copy To Clipboard" button.
+- Feature: Add various/important "Adventure Progress" stats to the bottom of the dungeon HUD with icons, so that opening "Adventure Progress" is less necessary.
+- Feature: Change fph settings to just be a 3 way toggle instead of 2 different toggles.
+  - Standard and Warp Fph
+  - Standard Fph
+  - Warp Fph
+- Feature: Setting to change how many decimal places show in stats (X.X isntead of X.X, ect).
+- Feature: Localize strings for easier access and future proofing.
+- Feature: Auto updater.
+  - Check for updates on game start and when user clicks "Check For Updates" button in options window.
+  - Check github releases and filter current SD2 version compatible versions.
+  - If update available it will alert the current and latest version.
+  - Allow user to auto update by downloading, unzipping, and moving dll into SD2 folder.
+  - After update finished, notify user to manually restart game to use latest version.
 - Fix: Remove mouse over effect on Tavern stairs because theres no interaction with it anymore.
 - Fix: Improve fit of large numbers in Hire window.
 - Feature: Add "remaining gold" counter to essence fountain. @caviyacht
