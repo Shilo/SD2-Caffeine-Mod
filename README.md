@@ -34,6 +34,7 @@ Author: [Shilo](https://github.com/Shilo)
     + [Town Productivity (Opt-In)](#town-productivity-opt-in)
     + [Fun](#fun)
     + [Code](#code)
+    + [Documentation](#documentation)
 - [Special Thanks](#special-thanks)
 - [Versioning](#versioning)
   * [Chronological Order](#chronological-order)
@@ -220,6 +221,9 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 
 #### Code
 - Feature: Create create debug class that will export logs and gameobject/component recursive logs to debug file.
+
+#### Documentation
+- Feature: Add public to-do list.
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com) for creating SD2 and allowing this mod and community to thrive.
