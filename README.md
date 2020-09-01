@@ -209,6 +209,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Feature: Record book stat "Caffeine Top Secret Uncovered" with count.
 - Feature: Interactive pixel art version of myself in tavern. @caviyacht
 - Feature: "Wood Mode" where dimension title shows as "Wood Dimension" and loot only shows "Wood" (maybe each count shows as a new stack). @caviyacht @Retropaint
+  - Add "Wood Per Hour" counter. @tabenspeak
 - Feature: Show visual effects (fireworks) at 1 million floor milestone.
 - Feature: Add physics to tavern characters and allow drag/drop with mouse to them around.
 - Feature: Hardcore mode that hides UI and increases difficulty.
