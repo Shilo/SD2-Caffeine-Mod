@@ -120,7 +120,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - ~~Fix: If only "Warp Fph" is enabled, temporarily show "Fph" if no warps have been activated yet.~~
 - ~~- Style: Minor layout changes.~~
 
-##### Code
+#### Code
 - ~~Feature: Investigate event add and remove listener code. (Maybe move to "AttachToAdventure" method.)~~
 - ~~Feature: Embed images into project instead of base64 strings.~~
 - ~~Feature: Rewrite code/project from scratch.~~
