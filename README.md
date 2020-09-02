@@ -142,15 +142,16 @@ Submit requests for features and bug fixes, as well as other ideas:
 #### Documentation
 - ~~Feature: Create public to-do list.~~
 - ~~Feature: Add changelog file.~~
+- ~~Feature: More user friendly file changes.~~
+  - ~~Add product name, version, and author name in dll file meta data.~~
+  - ~~Additonal URL shortcut files.~~
+- ~~Feature: Additional github document files.~~
 
 ### Incompleted
 
 #### General
+- Feature: Export relic levels with 'Copy Relic Levels To Clipboard' button in relic menu.
 - Feature: Console debug window for DEBUG mode and code snippet to easily write `#if DEBUG [log code here]`.
-- Feature: More user friendly file changes.
-  - Add "Modded by Caffeine vX X" in "File description" meta data of DLL file.
-  - URL Shortcut to VirusTotal scan report webpage.
-  - MD5 file to readme file, release page, and zip file.
 - Feature: Add "Changelog" button to About window.
 - Feature: Add report button in "Adventure Progress" which will open a detailed report window. Inside the report window, have a "Copy To Clipboard" button.
 - Feature: Add various/important "Adventure Progress" stats to the bottom of the dungeon HUD with icons, so that opening "Adventure Progress" is less necessary.
