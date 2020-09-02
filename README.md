@@ -131,6 +131,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 - ~~Fix: Improved character stats positions in party window.~~ 
 - ~~Fix: If only "Warp Fph" is enabled, temporarily show "Fph" if no warps have been activated yet.~~
 - ~~Style: Minor layout changes.~~
+- ~~Feature: Display caffeine version in title screen.~~
 
 #### Code
 - ~~Feature: Investigate event add and remove listener code. (Maybe move to "AttachToAdventure" method.)~~
@@ -138,6 +139,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 - ~~Feature: Rewrite code/project from scratch.~~
 - ~~Feature: Prioritize hooks more. Minimize any core code changes by implementing 1 line method calls and add most code changes in my custom classes. (This will make code a lot more portable between SD2 updates.)~~
 - ~~Feature: Possibly export to Visual Studio for better code and revision management.~~
+- ~~Feature: Localize strings for easier access and future proofing.~~
 
 #### Documentation
 - ~~Feature: Create public to-do list.~~
@@ -160,7 +162,6 @@ Submit requests for features and bug fixes, as well as other ideas:
   - Standard Fph
   - Warp Fph
 - Feature: Setting to change how many decimal places show in stats (X.X isntead of X.X, ect).
-- Feature: Localize strings for easier access and future proofing.
 - Feature: Auto updater.
   - Check for updates on game start and when user clicks "Check For Updates" button in options window.
   - Check github releases and filter current SD2 version compatible versions.
