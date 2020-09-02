@@ -132,6 +132,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 - ~~Fix: If only "Warp Fph" is enabled, temporarily show "Fph" if no warps have been activated yet.~~
 - ~~Style: Minor layout changes.~~
 - ~~Feature: Display caffeine version in title screen.~~
+- ~~Feature: Added "Copy Relics To Clipboard" button to relics window.~~
 
 #### Code
 - ~~Feature: Investigate event add and remove listener code. (Maybe move to "AttachToAdventure" method.)~~
@@ -152,7 +153,6 @@ Submit requests for features and bug fixes, as well as other ideas:
 ### Incompleted
 
 #### General
-- Feature: Export relic levels with 'Copy Relic Levels To Clipboard' button in relic menu.
 - Feature: Console debug window for DEBUG mode and code snippet to easily write `#if DEBUG [log code here]`.
 - Feature: Add "Changelog" button to About window.
 - Feature: Add report button in "Adventure Progress" which will open a detailed report window. Inside the report window, have a "Copy To Clipboard" button.
