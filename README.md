@@ -113,7 +113,8 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 ### Requests
 Submit requests for features and bug fixes, as well as other ideas:
 - [Issues page](https://github.com/Shilo/SD2-Caffeine-Mod/issues).
-- [Public to-do list](https://docs.google.com/spreadsheets/d/1v2XAlqbdhecwpTvN9F-2O7X3U-zo-ewGH70w4sotJzY/edit?usp=sharing).
+- [Public editable to-do list](https://docs.google.com/spreadsheets/d/1v2XAlqbdhecwpTvN9F-2O7X3U-zo-ewGH70w4sotJzY/edit?usp=sharing).
+> Warning: [Public editable to-do list](https://docs.google.com/spreadsheets/d/1v2XAlqbdhecwpTvN9F-2O7X3U-zo-ewGH70w4sotJzY/edit?usp=sharing) is entirely public collaborated. I do not take responsibility for anything written. Data may be inaccurate or offensive. Please be considerate when editing it. If it is abused, I will take it down.
 
 ### Completed
 [See detailed changes...](#changes)
