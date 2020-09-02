@@ -139,6 +139,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 
 #### Documentation
 - ~~Feature: Create public to-do list.~~
+- ~~Feature: Add changelog file.~~
 
 ### Incompleted
 
@@ -147,7 +148,7 @@ Submit requests for features and bug fixes, as well as other ideas:
   - Add "Modded by Caffeine vX X" in "File description" meta data of DLL file.
   - URL Shortcut to VirusTotal scan report webpage.
   - MD5 file to readme file, release page, and zip file.
-- Feature: Add "Changelog" button to About window and "Changelog" section in readme file.
+- Feature: Add "Changelog" button to About window.
 - Feature: Add report button in "Adventure Progress" which will open a detailed report window. Inside the report window, have a "Copy To Clipboard" button.
 - Feature: Add various/important "Adventure Progress" stats to the bottom of the dungeon HUD with icons, so that opening "Adventure Progress" is less necessary.
 - Feature: Change fph settings to just be a 3 way toggle instead of 2 different toggles.
