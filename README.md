@@ -43,6 +43,7 @@ Author: [Shilo](https://github.com/Shilo)
   * [Chronological Order](#chronological-order)
 
 ## Changes
+[See detailed changes in changelog...](/CHANGELOG.md)
 
 ### Features
 - Display realtime FPH and Warped FPH in dungeon run.
@@ -111,6 +112,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - If game is running, exit and restart it.
 
 ## Roadmap
+[See detailed changes in changelog...](/CHANGELOG.md)
 
 ### Requests
 Submit requests for features and bug fixes, as well as other ideas:
@@ -119,7 +121,6 @@ Submit requests for features and bug fixes, as well as other ideas:
 > Warning: [Public editable to-do list](https://docs.google.com/spreadsheets/d/1v2XAlqbdhecwpTvN9F-2O7X3U-zo-ewGH70w4sotJzY/edit?usp=sharing) is entirely public collaborated. I do not take responsibility for anything written. Data may be inaccurate or offensive. Please be considerate when editing it. If it is abused, I will take it down.
 
 ### Completed
-[See detailed changes...](#changes)
 
 #### General
 - ~~Feature: Display realtime FPH and Warped FPH in dungeon run.~~
