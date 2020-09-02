@@ -146,6 +146,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 ### Incompleted
 
 #### General
+- Feature: Console debug window for DEBUG mode and code snippet to easily write `#if DEBUG [log code here]`.
 - Feature: More user friendly file changes.
   - Add "Modded by Caffeine vX X" in "File description" meta data of DLL file.
   - URL Shortcut to VirusTotal scan report webpage.
