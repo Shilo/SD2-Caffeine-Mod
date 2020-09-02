@@ -55,7 +55,7 @@ Author: [Shilo](https://github.com/Shilo)
 
 ### Harmless
 - Guaranteed safe and virus free.
-- [See VirusTotal scan report](https://www.virustotal.com/gui/file/ba1aa054b927bb89a0bdea358d724e58360f1a7119675d605c23e004c298c242/detection).
+- [See security report](SECURITY_REPORT.md).
 
 ## Disclaimer
 All code and rights belong to their respective owners: AN Productions, Poxpower, Armor Games Studios or other.  
