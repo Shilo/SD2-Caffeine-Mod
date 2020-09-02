@@ -27,6 +27,7 @@ Author: [Shilo](https://github.com/Shilo)
   * [2. Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files)
   * [3. Manual](#3-manual)
 - [Roadmap](#roadmap)
+  * [Requests](#requests)
   * [Completed](#completed)
     + [General](#general)
   * [Incompleted](#incompleted)
@@ -108,7 +109,11 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - If game is running, exit and restart it.
 
 ## Roadmap
-[Submit ideas, feature and bug fix requests on issues page.](https://github.com/Shilo/SD2-Caffeine-Mod/issues)
+
+### Requests
+Submit feature and bug fix requests, as well as any other ideas:
+- [Issues page](https://github.com/Shilo/SD2-Caffeine-Mod/issues).
+- [Public to-do list](https://docs.google.com/spreadsheets/d/1v2XAlqbdhecwpTvN9F-2O7X3U-zo-ewGH70w4sotJzY/edit?usp=sharing).
 
 ### Completed
 [See detailed changes...](#changes)
