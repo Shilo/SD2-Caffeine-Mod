@@ -137,7 +137,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 - ~~Feature: Possibly export to Visual Studio for better code and revision management.~~
 
 #### Documentation
-- Feature: Create public to-do list.
+- ~~Feature: Create public to-do list.~~
 
 ### Incompleted
 
@@ -234,7 +234,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 - Feature: Create create debug class that will export logs and gameobject/component recursive logs to debug file.
 
 #### Documentation
-None at the moment.
+> None at the moment.
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com) for creating SD2 and allowing this mod and community to thrive.
