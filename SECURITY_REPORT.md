@@ -1,5 +1,5 @@
 # Security Report
-Virus free scans provided by [VirusTotal](https://www.virustotal.com). 
+Virus free scans provided by [VirusTotal](https://www.virustotal.com).  
 To verify data integrity, use a [file checksum integrity verifier](https://en.wikipedia.org/wiki/File_verification) tool such as [OnlineMD5](http://onlinemd5.com).
 
 ## [1.0.5.0] - 2017-08-27
