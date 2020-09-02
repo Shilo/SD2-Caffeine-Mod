@@ -130,7 +130,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 - ~~Feature: Customizable mod options.~~
 - ~~Fix: Improved character stats positions in party window.~~ 
 - ~~Fix: If only "Warp Fph" is enabled, temporarily show "Fph" if no warps have been activated yet.~~
-- ~~- Style: Minor layout changes.~~
+- ~~Style: Minor layout changes.~~
 
 #### Code
 - ~~Feature: Investigate event add and remove listener code. (Maybe move to "AttachToAdventure" method.)~~
@@ -142,10 +142,10 @@ Submit requests for features and bug fixes, as well as other ideas:
 #### Documentation
 - ~~Feature: Create public to-do list.~~
 - ~~Feature: Add changelog file.~~
+- ~~Feature: Add security report file.~~
 - ~~Feature: More user friendly file changes.~~
   - ~~Add product name, version, and author name in dll file meta data.~~
   - ~~Additonal URL shortcut files.~~
-- ~~Feature: Additional github document files.~~
 
 ### Incompleted
 
