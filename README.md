@@ -30,12 +30,14 @@ Author: [Shilo](https://github.com/Shilo)
   * [Requests](#requests)
   * [Completed](#completed)
     + [General](#general)
+    + [Code](#code)
+    + [Documentation](#documentation)
   * [Incompleted](#incompleted)
     + [General](#general-1)
     + [Town Productivity (Opt-In)](#town-productivity-opt-in)
     + [Fun](#fun)
-    + [Code](#code)
-    + [Documentation](#documentation)
+    + [Code](#code-1)
+    + [Documentation](#documentation-1)
 - [Special Thanks](#special-thanks)
 - [Versioning](#versioning)
   * [Chronological Order](#chronological-order)
@@ -134,6 +136,9 @@ Submit requests for features and bug fixes, as well as other ideas:
 - ~~Feature: Prioritize hooks more. Minimize any core code changes by implementing 1 line method calls and add most code changes in my custom classes. (This will make code a lot more portable between SD2 updates.)~~
 - ~~Feature: Possibly export to Visual Studio for better code and revision management.~~
 
+#### Documentation
+- Feature: Create public to-do list.
+
 ### Incompleted
 
 #### General
@@ -229,7 +234,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 - Feature: Create create debug class that will export logs and gameobject/component recursive logs to debug file.
 
 #### Documentation
-- Feature: Add public to-do list.
+None at the moment.
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com) for creating SD2 and allowing this mod and community to thrive.
