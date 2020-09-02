@@ -1,5 +1,7 @@
 # Security Report
 Virus free scans provided by [VirusTotal](https://www.virustotal.com).  
+Report includes virus scan results and checksums.  
+If your antivirus software reports a virus, it is a false positive and should be reported to the antivirus company.  
 To verify data integrity, use a [file checksum integrity verifier](https://en.wikipedia.org/wiki/File_verification) tool such as [OnlineMD5](http://onlinemd5.com).
 
 ## [1.0.5.0] - 2017-08-27
