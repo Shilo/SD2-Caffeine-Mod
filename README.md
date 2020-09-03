@@ -153,6 +153,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 ### Incompleted
 
 #### General
+- Feature: Clicking the pending battle credits will collect the battle credits directly instead of showing submenu which requires the user to click a second time.
 - Feature: Removed unlikely used settings and add a "Vanilla Mode (Disable Mod Changes)" toggle that will disable all settings, including unlikely used settings. Inside settings class, link unlikely used settings directly to "Vanilla Mode (Disable Mod Changes)".
 - Fix: Format "Playtime" stat to hours + minutes instead of just minutes.
 - Feature: Console debug window for DEBUG mode and code snippet to easily write `#if DEBUG [log code here]`.
