@@ -153,6 +153,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 ### Incompleted
 
 #### General
+- Feature: Removed unlikely used settings and add a "Disable Mod" toggle that will disable all settings, including unlikely used settings. Inside settings class link unlikely used settings directly to "Disable Mod".
 - Fix: Format "Playtime" stat to hours + minutes instead of just minutes.
 - Feature: Console debug window for DEBUG mode and code snippet to easily write `#if DEBUG [log code here]`.
 - Feature: Add "Changelog" button to About window.
