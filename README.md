@@ -185,10 +185,10 @@ Submit requests for features and bug fixes, as well as other ideas:
 - Fix: "Adventure Progress" timer should show time after 24 hours, and possibly seconds too. @Smgy
 - Feature: Show "essence gnome" essence earings during dungeon run instead of only at end. @caviyacht
 - Testing: Test mod installation and usage on Mac OS X.
-~~- Testing: Find someone to test installation and usage on Linux.~~ (Feature unnecessary: Linux is only supported with WINE)
+- ~~Testing: Find someone to test installation and usage on Linux.~~ (Feature unnecessary: Linux is only supported with WINE)
 - Feature: Improve Windows installer/uninstaller to dynamically find Steam folder location (and possibly allow specifying the location).
 - Feature: Add Mac OS X installer and release zip (with cmd files).
-~~- Feature: Add Linux installer and release zip (with text files explaining how to manually setup).~~ (Feature unnecessary: Linux is only supported with WINE)
+- ~~Feature: Add Linux installer and release zip (with text files explaining how to manually setup).~~ (Feature unnecessary: Linux is only supported with WINE)
 - Documentation: Add specific Windows and Mac install/uninstall instructions.
 - Feature: Uninstall mod button in options.
 - Feature: Export/import scripts with files and raw non-localized data format.
