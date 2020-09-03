@@ -230,7 +230,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 - Feature: "Wood Mode" where dimension title shows as "Wood Dimension" and loot only shows "Wood" (maybe each count shows as a new stack). @caviyacht @Retropaint
   - Add "Wood Per Hour" counter. @tabenspeak
 - Feature: Show visual effects (fireworks) at 1 million floor milestone.
-- Feature: Add physics to tavern characters and allow drag/drop with mouse to them around.
+- Feature: Add physics to tavern characters and allow drag/drop with mouse to throw them around.
 - Feature: Hardcore mode that hides UI and increases difficulty.
   - Add text to indicate mode.
   - Skip first round of each battle to get attacked every floor.
