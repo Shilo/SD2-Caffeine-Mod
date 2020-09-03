@@ -255,6 +255,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 - [Nikoleta Jovanovic](https://www.artstation.com/niko-art) for helping create lovely high-quality logo.
 - [Tilli](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes.
 - [XenosTec](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes.
+- [Etatauri](https://github.com/Etatauri) for help with documentation and other support behind the scenes. 
 
 ## Versioning
 Format of versions: `SD2_VERSION.MOD_VERSION [SODA|SKILL|CHARACTER|DIMENSION]`
