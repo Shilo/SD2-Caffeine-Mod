@@ -153,6 +153,7 @@ Submit requests for features and bug fixes, as well as other ideas:
 ### Incompleted
 
 #### General
+- Fix: Format "Playtime" stat to hours + minutes instead of just minutes.
 - Feature: Console debug window for DEBUG mode and code snippet to easily write `#if DEBUG [log code here]`.
 - Feature: Add "Changelog" button to About window.
 - Feature: Add report button in "Adventure Progress" which will open a detailed report window. Inside the report window, have a "Copy To Clipboard" button.
