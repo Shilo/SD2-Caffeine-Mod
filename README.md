@@ -162,7 +162,7 @@ Submit requests for features and bug fixes, as well as other ideas:
   - Standard and Warp Fph
   - Standard Fph
   - Warp Fph
-- Feature: Setting to change how many decimal places show in stats (X.X isntead of X.X, ect).
+- Feature: Setting to change how many decimal places show in stats (X.X instead of X.X, ect).
 - Feature: Auto updater.
   - Check for updates on game start and when user clicks "Check For Updates" button in options window.
   - Check github releases and filter current SD2 version compatible versions.
