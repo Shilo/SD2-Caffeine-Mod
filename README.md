@@ -210,6 +210,8 @@ Submit requests for features and bug fixes, as well as other ideas:
 - Fix: Improve sorting of "Adventure Progress" items (sort by rarity).
 - Feature: Organize and improve options window with tabs, checkboxes, and scrollviews to allow for infinite settings without users getting or overwhelmed.
 - Feature: A new page in record book for caffeine mod related stats.
+- Feature: Customizable text color. @Etatauri
+- Feature: Add visual stuff around the town.
 
 #### Town Productivity (Opt-In)
 > These would be disabled by default and opt-in options.  
