@@ -18,7 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Fix dungeon elapsed timer to increment over 24 hours.
 
-## Changed
+### Changed
 - New and improved project workflow.
 - Rewrote project from scratch.
 - When only "Warp Fph" is enabled, will temporarily show "Fph" if no warps have been activated yet.
