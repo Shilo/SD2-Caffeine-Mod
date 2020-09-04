@@ -104,7 +104,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 
 ## Roadmap
 [See detailed tasks in roadmap...](https://github.com/Shilo/SD2-Caffeine-Mod/projects/1)  
-Use [Issues page](https://github.com/Shilo/SD2-Caffeine-Mod/issues) to submit requests for features and bug fixes, as well as other ideas.
+> Use [Issues page](https://github.com/Shilo/SD2-Caffeine-Mod/issues) to submit requests for features and bug fixes, as well as other ideas.
 
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com) for creating SD2 and allowing this mod and community to thrive.
