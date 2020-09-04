@@ -5,7 +5,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-Coming soon...
+[See detailed tasks in roadmap...](https://github.com/Shilo/SD2-Caffeine-Mod/projects/1)
+
+### Added
+- Added "Darken Throne Room" option.
+- Added "Restore Defaults" button to options window.
+- Added "Copy Relics To Clipboard" button to relics window.
+- Display caffeine version in title screen.
+- Added localization in English.
+- Added additional files and metadata information in release zip.
+
+### Fixed
+- Fix dungeon elapsed timer to increment over 24 hours.
+
+## Changed
+- New and improved project workflow.
+- Rewrote project from scratch.
+- When only "Warp Fph" is enabled, will temporarily show "Fph" if no warps have been activated yet.
 
 ## [1.0.5.0] - 2017-08-27
 ### Added
