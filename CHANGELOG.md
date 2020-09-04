@@ -14,14 +14,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Display caffeine version in title screen.
 - Added localization in English.
 - Added additional files and metadata information in release zip.
+- Created installer and uninstaller.
+- Added additional mod customization options.
 
 ### Fixed
 - Fix dungeon elapsed timer to increment over 24 hours.
+- Improved character stats position in party window.
 
 ### Changed
 - New and improved project workflow.
 - Rewrote project from scratch.
 - When only "Warp Fph" is enabled, will temporarily show "Fph" if no warps have been activated yet.
+- Realtime FPH and Warp FPH displayed in realtime.
 
 ## [1.0.5.0] - 2017-08-27
 ### Added
