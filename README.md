@@ -49,7 +49,7 @@ The terms "safe" and "cheats" are subjective.
 By using this mod, you agree to the above terms.
 
 ## Security
-Guaranteed safe and virus free.
+Guaranteed safe and virus free.  
 [See security report...](SECURITY_REPORT.md).
 
 ## Compatibility Warning
