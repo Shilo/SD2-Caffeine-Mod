@@ -28,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Display realtime FPH and Warped FPH in dungeon run.
 - Export script with 'Copy Script To Clipboard' button in script menu.
 - Customizable mod options.
+- Installer and uninstaller.
 
 ### Fixed
 - Improved character stats positions in party window.
