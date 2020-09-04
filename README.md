@@ -14,9 +14,9 @@ Author: [Shilo](https://github.com/Shilo)
 - [Changes](#changes)
   * [Features](#features)
   * [Fixes](#fixes)
-  * [Harmless](#harmless)
 - [Disclaimer](#disclaimer)
 - [Compatibility Warning](#compatibility-warning)
+- [Security](#security)
 - [Download](#download)
 - [In-game Usage](#in-game-usage)
 - [Installation](#installation)
@@ -31,7 +31,7 @@ Author: [Shilo](https://github.com/Shilo)
 - [Versioning](#versioning)
   * [Chronological Order](#chronological-order)
 
-## Changes
+## Overview
 [See detailed changes in changelog...](/CHANGELOG.md)
 
 ### Features
@@ -42,10 +42,6 @@ Author: [Shilo](https://github.com/Shilo)
 ### Fixes
 - Improved character stats positions in party window.
 
-### Harmless
-- Guaranteed safe and virus free.
-- [See security report](SECURITY_REPORT.md).
-
 ## Disclaimer
 All code and rights belong to their respective owners: AN Productions, Poxpower, Armor Games Studios or other.  
 I take no credit for any of the original code and assets.  
@@ -55,6 +51,10 @@ By using this mod, you agree to the above terms.
 
 ## Compatibility Warning
 Only install this mod with the compatible SD2 version specified (for example, Caffeine Mod v1.0.5.X only supports SD2 v1.0.5). The numerical version of the mod will always match the supported version of the game. If you install the mod with an incompatible SD2 version, unwanted results will happen. The game will most likely freeze or crash. The game may also downgrade to an older SD2 version. If you happen to run into this issue, you can [uninstall the mod](#uninstallation) to revert back to the original working game. Or you can repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
+
+## Security
+Guaranteed safe and virus free.
+[See security report...](SECURITY_REPORT.md).
 
 ## Download
 [![Options](README/logo.png) SD2-Caffeine-Mod.zip](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest/download/SD2-Caffeine-Mod.zip)
@@ -109,11 +109,11 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 ## Special Thanks
 - [Shawn Tanner](https://www.sodadungeon.com) for creating SD2 and allowing this mod and community to thrive.
 - [caviyacht](https://github.com/caviyacht) for the very appreciated help and support behind the scenes.
+- [Etatauri](https://github.com/Etatauri) for help with documentation and other support behind the scenes. 
 - [Kubis_sakti](https://www.fiverr.com/kubis_sakti) for helping create beautiful high-quality character.
 - [Nikoleta Jovanovic](https://www.artstation.com/niko-art) for helping create lovely high-quality logo.
 - [Tilli](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes.
 - [XenosTec](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes.
-- [Etatauri](https://github.com/Etatauri) for help with documentation and other support behind the scenes. 
 
 ## Versioning
 Format of versions: `SD2_VERSION.MOD_VERSION [SODA|SKILL|CHARACTER|DIMENSION]`
