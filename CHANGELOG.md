@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added "Darken Throne Room" option.
 - Added "Copy Relics To Clipboard" button to relics window.
 - Added "Restore Defaults" button to options window.
+- Added tab hotkey to toggle "Adventure Progress" window in dungeon.
 - Display caffeine version in title screen.
 - Added localization in English.
 - Added additional files and metadata information in release zip.
