@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Display caffeine version in title screen.
 - Added localization in English.
 - Added additional files and metadata information in release zip.
+- Essence Fountain QoL improvements. (Details later)
 
 ### Fixed
 - Fix dungeon elapsed timer to increment over 24 hours.
