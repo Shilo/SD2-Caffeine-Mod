@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added "Copy Relics To Clipboard" button to relics window.
 - Added "Restore Defaults" button to options window.
 - Added tab hotkey to toggle "Adventure Progress" window in dungeon.
+- In Records book, format and appended detail to playtime stat.
 - Display caffeine version in title screen.
 - Added localization in English.
 - Added additional files and metadata information in release zip.
