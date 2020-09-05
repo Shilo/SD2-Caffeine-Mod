@@ -26,7 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplified options window and unified/revamped options.
 
 ### Removed
-- Small performance improvement by removing unnecessary loading and rendering. #code
+- Small performance improvement by removing unnecessary loading and rendering.
 
 ## [1.0.5.0] - 2017-08-27
 ### Added
