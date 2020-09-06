@@ -84,7 +84,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Create a copy/backup of `Assembly-CSharp.dll` (preferably in the same folder).
 - Replace `Assembly-CSharp.dll` with the exact file that was downloaded.
 - If game is running, exit and restart it.
-> Warning: Make sure not to confuse `Assembly-CSharp.dll` with `Assembly-CSharp-firstpass.dll`, only replace `Assembly-CSharp.dll`.
+> Warning: Make sure not to confuse `Assembly-CSharp.dll` with `Assembly-CSharp-firstpass.dll`, only replace `Assembly-CSharp.dll`.  
 > If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files) and attempt to install again.
 
 ## Uninstallation
@@ -104,7 +104,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Replace file with a backup/original version. There should be a backup in the same folder if you followed the installation correctly.
 > If you previously used `installer.bat`: file named will be `_BACKUP_Assembly-CSharp.dll`.
 - If game is running, exit and restart it.
-> Warning: Make sure not to confuse `Assembly-CSharp.dll` with `Assembly-CSharp-firstpass.dll`, only replace `Assembly-CSharp.dll`.
+> Warning: Make sure not to confuse `Assembly-CSharp.dll` with `Assembly-CSharp-firstpass.dll`, only replace `Assembly-CSharp.dll`.  
 > If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files) and attempt to install again.
 
 ## Roadmap
