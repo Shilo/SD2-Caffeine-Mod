@@ -119,9 +119,8 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - [Shawn Tanner](https://www.sodadungeon.com) for creating Soda Dungeon 2 and allowing this mod and community to thrive. Check out his fun [game](https://www.sodadungeon.com)!
 - [Benvictus](https://www.fiverr.com/benvictus) for creating a new and improved high-quality logo/button (soda sprite). Check him out on [Fiverr](https://www.fiverr.com/benvictus).
 - [Kubis_sakti](https://www.fiverr.com/kubis_sakti) for helping create beautiful high-quality character. Check him out on [Fiverr](https://www.fiverr.com/kubis_sakti).
-- [Nikoleta Jovanovic](https://www.artstation.com/niko-art) for helping create lovely high-quality initial logo. Check out her [Nikoleta Jovanovic](portfolio).
+- [Nikoleta Jovanovic](https://www.artstation.com/niko-art) for helping create lovely high-quality initial logo. Check out her [portfolio](https://www.artstation.com/niko-art).
 - [caviyacht](https://github.com/caviyacht) for the very appreciated help and support behind the scenes. Check him out on [GitHub](https://github.com/caviyacht).
-Benvictus
-- [Etatauri](https://github.com/Etatauri) for help with documentation and other support behind the scenes. Check her out on [GitHub](https://github.com/caviyacht).
+- [Etatauri](https://github.com/Etatauri) for help with documentation and other support behind the scenes. Check her out on [GitHub](https://github.com/Etatauri).
 - [Tilli](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [discord server](https://discord.gg/y93QchM).
 - [XenosTec](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [discord server](https://discord.gg/y93QchM).
