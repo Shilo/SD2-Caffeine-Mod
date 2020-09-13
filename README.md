@@ -121,6 +121,6 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - [Kubis_sakti](https://www.fiverr.com/kubis_sakti) for helping create beautiful high-quality character. Check him out on [Fiverr](https://www.fiverr.com/kubis_sakti).
 - [Nikoleta Jovanovic](https://www.artstation.com/niko-art) for helping create lovely high-quality initial logo. Check out her [portfolio](https://www.artstation.com/niko-art).
 - [caviyacht](https://github.com/caviyacht) for the very appreciated help and support behind the scenes. Check him out on [GitHub](https://github.com/caviyacht).
-- [Etatauri](https://github.com/Etatauri) for help with documentation and other support behind the scenes. Check her out on [GitHub](https://github.com/Etatauri).
+- [Etatauri](https://github.com/Etatauri) for the very appreciated help with documentation and other support behind the scenes. Check her out on [GitHub](https://github.com/Etatauri).
 - [Tilli](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [discord server](https://discord.gg/y93QchM).
 - [XenosTec](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [discord server](https://discord.gg/y93QchM).
