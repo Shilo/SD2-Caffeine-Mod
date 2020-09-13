@@ -116,10 +116,12 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 [See product names in version format...](VERSION_FORMAT.md)  
 
 ## Special Thanks
-- [Shawn Tanner](https://www.sodadungeon.com) for creating SD2 and allowing this mod and community to thrive.
-- [caviyacht](https://github.com/caviyacht) for the very appreciated help and support behind the scenes.
-- [Etatauri](https://github.com/Etatauri) for help with documentation and other support behind the scenes. 
-- [Kubis_sakti](https://www.fiverr.com/kubis_sakti) for helping create beautiful high-quality character.
-- [Nikoleta Jovanovic](https://www.artstation.com/niko-art) for helping create lovely high-quality logo.
-- [Tilli](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes.
-- [XenosTec](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes.
+- [Shawn Tanner](https://www.sodadungeon.com) for creating Soda Dungeon 2 and allowing this mod and community to thrive. Check out his fun [game](https://www.sodadungeon.com)!
+- [Benvictus](https://www.fiverr.com/benvictus) for creating a new and improved high-quality logo/button (soda sprite). Check him out on [Fiverr](https://www.fiverr.com/benvictus).
+- [Kubis_sakti](https://www.fiverr.com/kubis_sakti) for helping create beautiful high-quality character. Check him out on [Fiverr](https://www.fiverr.com/kubis_sakti).
+- [Nikoleta Jovanovic](https://www.artstation.com/niko-art) for helping create lovely high-quality initial logo. Check out her [Nikoleta Jovanovic](portfolio).
+- [caviyacht](https://github.com/caviyacht) for the very appreciated help and support behind the scenes. Check him out on [GitHub](https://github.com/caviyacht).
+Benvictus
+- [Etatauri](https://github.com/Etatauri) for help with documentation and other support behind the scenes. Check her out on [GitHub](https://github.com/caviyacht).
+- [Tilli](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [discord server](https://discord.gg/y93QchM).
+- [XenosTec](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [discord server](https://discord.gg/y93QchM).
