@@ -126,7 +126,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 > If you previously used `installer.bat`: file named will be `_BACKUP_Assembly-CSharp.dll`.
 - If game is running, exit and restart it.
 > Warning: Make sure not to confuse `Assembly-CSharp.dll` with `Assembly-CSharp-firstpass.dll`, only replace `Assembly-CSharp.dll`.  
-> If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files) and it will automatically uninstall mod also.
+> If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#steams-verify-integrity-of-game-files-recommended) and it will automatically uninstall mod also.
 ### Mac OS X
 #### Manual
 > Only follow these steps if you are competent with computers and file management.
@@ -137,7 +137,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Replace file with a backup/original version. There should be a backup in the same folder if you followed the installation correctly.
 - If game is running, exit and restart it.
 > Warning: Make sure not to confuse `Assembly-CSharp.dll` with `Assembly-CSharp-firstpass.dll`, only replace `Assembly-CSharp.dll`.  
-> If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files) and it will automatically uninstall mod also.
+> If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#steams-verify-integrity-of-game-files-recommended) and it will automatically uninstall mod also.
 
 ## Roadmap
 [See detailed tasks in roadmap...](https://github.com/Shilo/SD2-Caffeine-Mod/projects/1)  
