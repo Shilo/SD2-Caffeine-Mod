@@ -24,14 +24,14 @@ Author: [Shilo](https://github.com/Shilo)
     * [Mod Auto Install](#mod-auto-install)
     * [Manual](#manual)
   * [Mac OS X](#mac-os-x)
-    * [Manual](#manual)
+    * [Manual](#manual-1)
 - [Uninstallation](#uninstallation)
-  * [Steam's "Verify Integrity of Game Files..."](#steams-verify-integrity-of-game-files)
-  * [Windows](#windows)
+  * [Steam's "Verify Integrity of Game Files..."](#steams-verify-integrity-of-game-files-recommended)
+  * [Windows](#windows-1)
     * [Mod Auto Uninstall](#mod-auto-uninstall)
-    * [Manual](#manual)
-  * [Mac OS X](#mac-os-x)
-    * [Manual](#manual)
+    * [Manual](#manual-2)
+  * [Mac OS X](#mac-os-x-1)
+    * [Manual](#manual-3)
 - [Roadmap](#roadmap)
 - [Versioning](#versioning)
 - [Special Thanks](#special-thanks)
@@ -93,8 +93,8 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Replace `Assembly-CSharp.dll` with the exact file that was downloaded.
 - If game is running, exit and restart it.
 > Warning: Make sure not to confuse `Assembly-CSharp.dll` with `Assembly-CSharp-firstpass.dll`, only replace `Assembly-CSharp.dll`.  
-> If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files) and attempt to install again.
-### Mac
+> If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#steams-verify-integrity-of-game-files-recommended) and attempt to install again.
+### Mac OS X
 #### Manual
 > Only follow these steps if you are competent with computers and file management.
 > More detailed instructions in the future.
@@ -105,7 +105,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - Replace `Assembly-CSharp.dll` with the exact file that was downloaded.
 - If game is running, exit and restart it.
 > Warning: Make sure not to confuse `Assembly-CSharp.dll` with `Assembly-CSharp-firstpass.dll`, only replace `Assembly-CSharp.dll`.  
-> If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files) and attempt to install 
+> If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#steams-verify-integrity-of-game-files-recommended) and attempt to install 
 
 ## Uninstallation
 > Note: If the game is updated, the mod will be automatically uninstalled.
