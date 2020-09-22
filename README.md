@@ -96,7 +96,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 > If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#steams-verify-integrity-of-game-files-recommended) and attempt to install again.
 ### Mac OS X
 #### Manual
-> Only follow these steps if you are competent with computers and file management.
+> Only follow these steps if you are competent with computers and file management.  
 > More detailed instructions in the future.
 - Locate your Steam apps: `Steam -> Preferences -> Downloads -> Steam Library Folders`
 - Show package contents: `Right click SodaDungeon2 -> Show Package Contents`
@@ -108,7 +108,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 > If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#steams-verify-integrity-of-game-files-recommended) and attempt to install 
 
 ## Uninstallation
-> Note: If the game is updated, the mod will be automatically uninstalled.
+> Note: If the game is updated, the mod will be automatically uninstalled.  
 - Uninstall with one of below methods:
 ### Steam's "Verify Integrity of Game Files..." (Recommended)
 - If game is running, exit it.
@@ -129,7 +129,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 > If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#steams-verify-integrity-of-game-files-recommended) and it will automatically uninstall mod also.
 ### Mac OS X
 #### Manual
-> Only follow these steps if you are competent with computers and file management.
+> Only follow these steps if you are competent with computers and file management.  
 > More detailed instructions in the future.
 - Locate your Steam apps: `Steam -> Preferences -> Downloads -> Steam Library Folders`
 - Show package contents: `Right click SodaDungeon2 -> Show Package Contents`
