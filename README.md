@@ -127,7 +127,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - If game is running, exit and restart it.
 > Warning: Make sure not to confuse `Assembly-CSharp.dll` with `Assembly-CSharp-firstpass.dll`, only replace `Assembly-CSharp.dll`.  
 > If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files) and it will automatically uninstall mod also.
-### Mac
+### Mac OS X
 #### Manual
 > Only follow these steps if you are competent with computers and file management.
 > More detailed instructions in the future.
