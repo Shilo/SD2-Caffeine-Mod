@@ -1,12 +1,12 @@
-# Soda Dungeon 2 - Caffeine Mod [Windows/Steam]
+# Soda Dungeon 2 - Caffeine Mod [Steam / Windows / Mac OS X]
 [![Caffeine](README/showcase.gif)](README)  
 
 [![Caffeine](README/logo.png)](#download)  
 A Caffeine-addicting mod that boosts [Soda Dungeon 2](https://www.sodadungeon.com/)'s energy and smartness.  
 Includes quality of life features and fixes.  
 Guaranteed free, safe, and no cheats.  
-> Compatible with Windows/Steam only.  
-> Official Mac OS X support in the future. It may work out of the box with "Manual" installation (not tested).  
+> Compatible with Steam, Windows and Mac OS X only.  
+> Mac OS X installer coming in the future.
 
 Author: [Shilo](https://github.com/Shilo)  
 
@@ -20,12 +20,18 @@ Author: [Shilo](https://github.com/Shilo)
 - [Download](#download)
 - [In-game Usage](#in-game-usage)
 - [Installation](#installation)
-  * [1. Mod Auto Install](#1-mod-auto-install)
-  * [2. Manual](#2-manual)
+  * [Windows](#windows)
+    * [Mod Auto Install](#mod-auto-install)
+    * [Manual](#manual)
+  * [Mac OS X](#mac-os-x)
+    * [Manual](#manual)
 - [Uninstallation](#uninstallation)
-  * [1. Mod Auto Uninstall](#1-mod-auto-uninstall)
-  * [2. Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files)
-  * [3. Manual](#3-manual)
+  * [Steam's "Verify Integrity of Game Files..."](#steams-verify-integrity-of-game-files)
+  * [Windows](#windows)
+    * [Mod Auto Uninstall](#mod-auto-uninstall)
+    * [Manual](#manual)
+  * [Mac OS X](#mac-os-x)
+    * [Manual](#manual)
 - [Roadmap](#roadmap)
 - [Versioning](#versioning)
 - [Special Thanks](#special-thanks)
@@ -73,13 +79,14 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 > Note: If the game is updated, the mod will be automatically uninstalled.
 - [Download](#download) the latest version.
 - Unzip downloaded folder.
-- Install with one of two methods:
-### 1. Mod Auto Install
+- Install with one of below methods:
+### Windows
+#### Mod Auto Install
 - Launch `install.bat`.
 - Press `Y` when prompted.
 - You should see a success message.
 - If game is running, exit and restart it.
-### 2. Manual
+#### Manual
 > Only follow these steps if you are competent with computers and file management.
 - Navigate to folder: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed\`
 - Create a copy/backup of `Assembly-CSharp.dll` (preferably in the same folder).
@@ -87,23 +94,47 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - If game is running, exit and restart it.
 > Warning: Make sure not to confuse `Assembly-CSharp.dll` with `Assembly-CSharp-firstpass.dll`, only replace `Assembly-CSharp.dll`.  
 > If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files) and attempt to install again.
+### Mac
+#### Manual
+> Only follow these steps if you are competent with computers and file management.
+> More detailed instructions in the future.
+- Locate your Steam apps: `Steam -> Preferences -> Downloads -> Steam Library Folders`
+- Show package contents: `Right click SodaDungeon2 -> Show Package Contents`
+- Navigate to the following folder: `Contents -> Resources -> Data -> Managed`
+- Create a copy/backup of `Assembly-CSharp.dll` (preferably in the same folder).
+- Replace `Assembly-CSharp.dll` with the exact file that was downloaded.
+- If game is running, exit and restart it.
+> Warning: Make sure not to confuse `Assembly-CSharp.dll` with `Assembly-CSharp-firstpass.dll`, only replace `Assembly-CSharp.dll`.  
+> If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files) and attempt to install 
 
 ## Uninstallation
 > Note: If the game is updated, the mod will be automatically uninstalled.
-- Uninstall with one of three methods:
-### 1. Mod Auto Uninstall
+- Uninstall with one of below methods:
+### Steam's "Verify Integrity of Game Files..." (Recommended)
+- If game is running, exit it.
+- Repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
+### Windows
+#### Mod Auto Uninstall
 - Launch `uninstall.bat`.
 - Press `Y` when prompted.
 - You should see a success message if the mod was previously installed.
 - If game is running, exit and restart it.
-### 2. Steam's "Verify Integrity of Game Files..."
-- If game is running, exit it.
-- Repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
-### 3. Manual
+#### Manual
 > Only follow these steps if you are competent with computers and file management.
 - Locate file: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed\Assembly-CSharp.dll`
 - Replace file with a backup/original version. There should be a backup in the same folder if you followed the installation correctly.
 > If you previously used `installer.bat`: file named will be `_BACKUP_Assembly-CSharp.dll`.
+- If game is running, exit and restart it.
+> Warning: Make sure not to confuse `Assembly-CSharp.dll` with `Assembly-CSharp-firstpass.dll`, only replace `Assembly-CSharp.dll`.  
+> If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files) and it will automatically uninstall mod also.
+### Mac
+#### Manual
+> Only follow these steps if you are competent with computers and file management.
+> More detailed instructions in the future.
+- Locate your Steam apps: `Steam -> Preferences -> Downloads -> Steam Library Folders`
+- Show package contents: `Right click SodaDungeon2 -> Show Package Contents`
+- Navigate to the following folder: `Contents -> Resources -> Data -> Managed`
+- Replace file with a backup/original version. There should be a backup in the same folder if you followed the installation correctly.
 - If game is running, exit and restart it.
 > Warning: Make sure not to confuse `Assembly-CSharp.dll` with `Assembly-CSharp-firstpass.dll`, only replace `Assembly-CSharp.dll`.  
 > If you have issues or made a mistake, repair your files with [Steam's "Verify Integrity of Game Files..."](#2-steams-verify-integrity-of-game-files) and it will automatically uninstall mod also.
