@@ -1,4 +1,4 @@
-# Soda Dungeon 2 - Caffeine Mod [Steam / Windows / Mac OS X]
+# Soda Dungeon 2 - Caffeine Mod [Steam/Windows/Mac OS X]
 [![Caffeine](README/showcase.gif)](README)  
 
 [![Caffeine](README/logo.png)](#download)  
