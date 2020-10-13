@@ -87,7 +87,8 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - You should see a success message.
 - If game is running, exit and restart it.
 #### Manual
-> Only follow these steps if you are competent with computers and file management.
+> Only follow these steps if you are competent with computers and file management.  
+> How to manual install (video): https://drive.google.com/file/d/1lo__jlMy2TFOTLEbf5WJ7vdEUxU5_P7i/view?usp=sharing  
 - Navigate to folder: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed\`
 - Create a copy/backup of `Assembly-CSharp.dll` (preferably in the same folder).
 - Replace `Assembly-CSharp.dll` with the exact file that was downloaded.
