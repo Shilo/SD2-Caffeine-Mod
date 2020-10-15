@@ -12,8 +12,12 @@ Author: [Shilo](https://github.com/Shilo)
 
 ## Table Of Contents
 - [Overview](#overview)
-  * [Features](#features)
-  * [Fixes](#fixes)
+  * [Comprehensive Settings](#comprehensive-settings)
+  * [Friendly Information](#friendly-information)
+  * [Detailed Statistics](#detailed-statistics)
+  * [Thoughtful Touch Ups](#thoughtful-touch-ups)
+  * [Renowned Satisfaction](#renowned-satisfacation)
+  * [Caffeine Experience](#caffeine-experience)
 - [Disclaimer](#disclaimer)
 - [Security](#security)
 - [Compatibility Warning](#compatibility-warning)
@@ -38,8 +42,9 @@ Author: [Shilo](https://github.com/Shilo)
 
 ## Overview
 [See detailed changes in changelog...](/CHANGELOG.md)
+
 ### Comprehensive Settings
-Take full control of your gameplay, with customizations for all important options. Play the game the way you want. If by chance, there's a built-in feature you arent enjoying, you are free to go back to "Vanilla Experience" by disabling the mod at any point in time. Limitations are in the past.
+Take full control of your gameplay, with customizations for all important options. Play the game the way you want. If there's a built-in feature you arent enjoying, you are free to go back to "Vanilla Experience" by disabling the mod at any point in time. Limitations are in the past.
 
 ### Friendly Information
 Become more in the loop with the game by taking advantage of helpful notifications and tooltips. Know about important events such as when the game saves. Hover over elements to view details. Don't need the extra information? You can simply turn them off.
@@ -51,16 +56,23 @@ Are you a fan of numbers and data? Use the Game Report menu to view a massive li
 We all enjoy Soda Dungeon 2, but no game is perfect. Improve the game's strengths and fix the game's weaknesses. Various Quality of Life changes throughout the entire game. Allowing for more enjoyable gameplay.
 
 ### Renowned Satisfaction
-Supported and used by the lovely Soda Dungeon 2 community. Created specifically for them and appreciated by them. This mod continues to grow with the growth of the supportive players backing it. Guarenteed safe to use and always the player in mind.
+Supported and used by the lovely Soda Dungeon 2 community. Created specifically for them and highly appreciated. This mod continues to grow with the growth of the supportive players backing it. Guarenteed safe to use and always the player in mind.
 
 ### Caffeine Experience
-- Highly customizable settings
-- Complete game report menu
-- FPH counters (Floors Per Hour)
-- Todo
+- Highly customizable settings.
+- Useful FPH counters (Floors Per Hour).
+- Complete game report statistics.
+- Helpful notifications and tooltips.
+- Numerous splash number formats.
+- Customizable friendly and enemy status.
+- Convienent battle options.
+- Optional desktop-standard hotkeys.
+- Fully accessible party and relic windows.
+- Easily copy data on click.
+- Disable mod in realtime.
 
 ## Disclaimer
-> © 2020 CaffeineMod.com Shilo. © 2020 AN Productions | poxpower. All rights reserved.
+> © 2020 CaffeineMod.com Shilo. © 2020 AN Productions | poxpower. All rights reserved.  
 All code and rights belong to their respective owners: Shilo, AN Productions, Poxpower, Armor Games Studios or other.  
 I take no credit for any of the original code and assets.  
 Use this mod at your own risk: I am not responsible for any results of using this mod.  
@@ -170,3 +182,4 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - [Tilli](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [Discord server](https://discord.gg/y93QchM).
 - [XenosTec](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [Discord server](https://discord.gg/y93QchM).
 - [Etatauri](https://github.com/Etatauri) for the very appreciated help with documentation and other support behind the scenes. Check her out on [GitHub](https://github.com/Etatauri).
+- [Soda Dungeon 2 community](https://discord.com/invite/sodadungeon) for all the love and support. Thank you from the bottom of my heart!
