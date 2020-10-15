@@ -68,7 +68,8 @@ Supported and used by the lovely Soda Dungeon 2 community. Created specifically 
 - Convienent battle options.
 - Optional desktop-standard hotkeys.
 - Fully accessible party and relic windows.
-- Easily copy data on click.
+- One click copy data.
+- Extra and easily readable statistics.
 - Disable mod in realtime.
 
 ## Disclaimer
