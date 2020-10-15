@@ -61,7 +61,8 @@ Supported and used by the lovely Soda Dungeon 2 community. Created specifically 
 - Todo
 
 ## Disclaimer
-All code and rights belong to their respective owners: AN Productions, Poxpower, Armor Games Studios or other.  
+> © 2020 CaffeineMod.com Shilo. © 2020 AN Productions | poxpower. All rights reserved.
+All code and rights belong to their respective owners: Shilo, AN Productions, Poxpower, Armor Games Studios or other.  
 I take no credit for any of the original code and assets.  
 Use this mod at your own risk: I am not responsible for any results of using this mod.  
 By using this mod, you agree to the above terms.
