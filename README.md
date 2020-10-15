@@ -71,6 +71,7 @@ Supported and used by the lovely Soda Dungeon 2 community. Created specifically 
 - One click copy data.
 - Extra and easily readable statistics.
 - Disable mod in realtime.
+- Comforting compatibility protection.
 
 ## Disclaimer
 > © 2020 CaffeineMod.com Shilo. © 2020 AN Productions | poxpower. All rights reserved.  
