@@ -64,7 +64,6 @@ Supported and used by the lovely Soda Dungeon 2 community. Created specifically 
 All code and rights belong to their respective owners: AN Productions, Poxpower, Armor Games Studios or other.  
 I take no credit for any of the original code and assets.  
 Use this mod at your own risk: I am not responsible for any results of using this mod.  
-The terms "safe" and "cheats" are subjective.   
 By using this mod, you agree to the above terms.
 
 ## Security
@@ -72,7 +71,7 @@ Guaranteed safe and virus free.
 [See security report...](SECURITY_REPORT.md).
 
 ## Compatibility Warning
-Only install this mod with the compatible SD2 version specified (for example, Caffeine Mod v1.0.5.X only supports SD2 v1.0.5). The numerical version of the mod will always match the supported version of the game. If you install the mod with an incompatible SD2 version, unwanted results will happen. The game will most likely freeze or crash. The game may also downgrade to an older SD2 version. If you happen to run into this issue, you can [uninstall the mod](#uninstallation) to revert back to the original working game. Or you can repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
+Only install this mod with the compatible SD2 version specified (for example, Caffeine Mod v1.0.5.X only supports SD2 v1.0.5). The numerical version of the mod will always match the supported version of the game. If you unintentionally install the mod with an incompatible SD2 version, you can [uninstall the mod](#uninstallation) to revert back to the original working game. Or you can repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
 
 ## Download
 [![Options](README/logo.png) Pre-Release: v1.0.5.1 Soda Junkie [PRE-RELEASE]](https://github.com/Shilo/SD2-Caffeine-Mod/releases/tag/v1.0.5.1-pre-release)  
