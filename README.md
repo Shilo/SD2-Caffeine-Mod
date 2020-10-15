@@ -39,13 +39,26 @@ Author: [Shilo](https://github.com/Shilo)
 ## Overview
 [See detailed changes in changelog...](/CHANGELOG.md)
 
-### Features
-- Display realtime FPH and Warped FPH in dungeon run.
-- Export script with 'Copy Script To Clipboard' button in script menu.
-- Customizable mod options.
+### Comprehensive Settings
+Take full control of your gameplay, with customizations for all important options. Play the game the way you want. If by chance, there's a built-in feature you arent enjoying, you are free to go back to "Vanilla Experience" by disabling the mod at any point in time. Limitations are in the past.
 
-### Fixes
-- Improved character stats positions in party window.
+### Friendly Information
+Become more in the loop with the game by taking advantage of helpful notifications and tooltips. Know about important events such as when the game saves. Hover over elements to view details. Don't need the extra information? You can simply turn them off.
+
+### Detailed Statistics
+Are you a fan of numbers and data? Use the Game Report menu to view a massive list of in-game data in realtime. You can even export the data on request or live. The data is developer friendly so you can create your own third party applications for Soda Dungeon 2.
+
+### Thoughtful Touch Ups
+We all enjoy Soda Dungeon 2, but no game is perfect. Improve the game's strengths and fix the game's weaknesses. Various Quality of Life changes throughout the entire game. Allowing for more enjoyable gameplay.
+
+### Renowned Satisfaction
+Supported and used by the lovely Soda Dungeon 2 community. Created specifically for them and appreciated by them. This mod continues to grow with the growth of the supportive players backing it. Guarenteed safe to use and always the player in mind.
+
+### Caffeine Experience
+- Highly customizable settings
+- Complete game report menu
+- FPH counters (Floors Per Hour)
+- Todo
 
 ## Disclaimer
 All code and rights belong to their respective owners: AN Productions, Poxpower, Armor Games Studios or other.  
