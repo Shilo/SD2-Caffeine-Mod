@@ -38,7 +38,6 @@ Author: [Shilo](https://github.com/Shilo)
 
 ## Overview
 [See detailed changes in changelog...](/CHANGELOG.md)
-
 ### Comprehensive Settings
 Take full control of your gameplay, with customizations for all important options. Play the game the way you want. If by chance, there's a built-in feature you arent enjoying, you are free to go back to "Vanilla Experience" by disabling the mod at any point in time. Limitations are in the past.
 
