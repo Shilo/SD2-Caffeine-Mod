@@ -86,8 +86,7 @@ Guaranteed safe and virus free.
 Only install this mod with the compatible SD2 version specified (for example, Caffeine Mod v1.0.5.X only supports SD2 v1.0.5). The numerical version of the mod will always match the supported version of the game. If you unintentionally install the mod with an incompatible SD2 version, you can [uninstall the mod](#uninstallation) to revert back to the original working game. Or you can repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
 
 ## Download
-[![Options](README/logo.png) Pre-Release: v1.0.5.1 Soda Junkie [PRE-RELEASE]](https://github.com/Shilo/SD2-Caffeine-Mod/releases/tag/v1.0.5.1-pre-release)  
-[![Options](README/logo.png) Latest: SD2-Caffeine-Mod.zip](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest/download/SD2-Caffeine-Mod-v1.0.5.0.zip)
+[![Options](README/logo.png) Latest: SD2-Caffeine-Mod.zip](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest/download/SD2-Caffeine-Mod-v1.0.5.1.zip)
 - Navigate to [latest version](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest).
 - Scroll down to "Assets" and open the first link named "[SD2-Caffeine-Mod.zip](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest/download/SD2-Caffeine-Mod-v1.0.5.0.zip)".
 > Source code links are irrelevant as it is just the [documentation](https://github.com/Shilo/SD2-Caffeine-Mod) only.  
