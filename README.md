@@ -65,12 +65,13 @@ Supported and used by the lovely Soda Dungeon 2 community. Created specifically 
 - Helpful notifications and tooltips.
 - Numerous splash number formats.
 - Customizable friendly and enemy status.
-- Convienent battle options.
+- Convenient battle options.
 - Optional desktop-standard hotkeys.
 - Fully accessible party and relic windows.
 - One click copy data.
 - Extra and easily readable statistics.
-- Disable mod in realtime.
+- Disable mod in real-time.
+- Automatic backup and recovery support.
 - Comforting compatibility protection.
 
 ## Disclaimer
