@@ -96,6 +96,7 @@ SD2 Default, 0 Decimal Places, 1 Decimal Place, 2 Decimal Places, 3 Decimal Plac
 - Closing party window with P key will close specific relic window too.
 - Hotkeys are now disable-able.
 - Tab hotkey will now open Adventure progress menu anytime.
+- Updated about window with latest info.
 
 ### Removed
 - Small performance improvement by removing unnecessary loading and rendering.
