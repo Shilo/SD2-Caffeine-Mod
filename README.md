@@ -73,6 +73,7 @@ Supported and used by the lovely Soda Dungeon 2 community. Created specifically 
 - Disable mod in real-time.
 - Automatic backup and recovery support.
 - Comforting compatibility protection.
+- Various improvements and bug fixes.
 
 ## Disclaimer
 > © 2020 CaffeineMod.com Shilo. © 2020 AN Productions | poxpower. All rights reserved.  
