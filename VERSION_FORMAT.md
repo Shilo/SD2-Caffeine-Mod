@@ -12,40 +12,41 @@ Format of versions: `SD2_VERSION.MOD_VERSION [SODA|SKILL|CHARACTER|DIMENSION]`
 7. Wildberry Blast
 8. Corrupted Cola
 9. Double Bubble
-10. The Dark Lord
-11. Big Burp
-12. Nailed it
-13. Transmute
-14. First Aid
-15. Torment
-16. Ransack
-17. Mark
-18. Noxin
-19. Double Strike
-20. Shadow Slicer
-21. Healing Fairy
-22. The Janitor
-23. Chameleon Lord
-24. Lobster Lord
-25. The Darker Lord
-26. Mecha-Lord
-27. The Dark Lady
-28. Dark Dialer
-29. The Lord of Light
-30. Vacation Lord
-31. Grill of Darkness
-32. The Darkest Lord
-33. The Darkest One
-34. Dimension 1
-35. Dimension 2
-36. Dimension 3
-37. Dimension 4
-38. Dimension 5
-39. Dimension 6
-40. Dimension 7
-41. Dimension 8
-42. Dimension 9
-43. Ruin
-44. Warrior's Dimension
-45. Warrior's Dimension 2  
+10. Baking Soda
+11. The Dark Lord
+12. Big Burp
+13. Nailed it
+14. Transmute
+15. First Aid
+16. Torment
+17. Ransack
+18. Mark
+19. Noxin
+20. Double Strike
+21. Shadow Slicer
+22. Healing Fairy
+23. The Janitor
+24. Chameleon Lord
+25. Lobster Lord
+26. The Darker Lord
+27. Mecha-Lord
+28. The Dark Lady
+29. Dark Dialer
+30. The Lord of Light
+31. Vacation Lord
+32. Grill of Darkness
+33. The Darkest Lord
+34. The Darkest One
+35. Dimension 1
+36. Dimension 2
+37. Dimension 3
+38. Dimension 4
+39. Dimension 5
+40. Dimension 6
+41. Dimension 7
+42. Dimension 8
+43. Dimension 9
+44. Ruin
+45. Warrior's Dimension
+46. Warrior's Dimension 2  
 (ect)
