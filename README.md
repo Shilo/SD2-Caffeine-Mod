@@ -56,11 +56,11 @@ Are you a fan of numbers and data? Use the Game Report menu to view a massive li
 We all enjoy Soda Dungeon 2, but no game is perfect. Improve the game's strengths and fix the game's weaknesses. Various Quality of Life changes throughout the entire game. Allowing for more enjoyable gameplay.
 
 ### Renowned Satisfaction
-Supported and used by the lovely Soda Dungeon 2 community. Created specifically for them and highly appreciated. This mod continues to grow with the growth of the supportive players backing it. Guarenteed safe to use and always the player in mind.
+Supported and used by the lovely Soda Dungeon 2 community. Created specifically for them and highly appreciated. This mod continues to grow with the growth of the supportive players backing it. Guaranteed safe to use and always the player in mind.
 
 ### Caffeine Experience
-- Highly customizable settings.
-~~- Useful FPH counters (Floors Per Hour).~~
+- Highly customizable settings.  
+~~- Useful FPH counters (Floors Per Hour).~~  
 - Complete game report statistics.
 - Helpful notifications and tooltips.
 - Numerous splash number formats.
