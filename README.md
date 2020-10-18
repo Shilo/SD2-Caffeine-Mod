@@ -72,8 +72,8 @@ Supported and used by the lovely Soda Dungeon 2 community. Created specifically 
 - Disable mod in real-time.
 - Automatic backup and recovery support.
 - Comforting compatibility protection.
-- Various improvements and bug fixes.  
-~~- Useful FPH counters (Floors Per Hour).~~
+- Various improvements and bug fixes.
+- ~~Useful FPH counters (Floors Per Hour).~~
 
 ## Disclaimer
 > © 2020 CaffeineMod.com Shilo. © 2020 AN Productions | poxpower. All rights reserved.  
@@ -105,7 +105,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 ## Installation
 > Note: If the game is updated, the mod will be automatically uninstalled.
 - [Download](#download) the latest version.
-- Unzip downloaded folder.
+- Unzip/extract downloaded folder. (Required)
 - Install with one of below methods:
 ### Windows
 #### Mod Auto Install
