@@ -60,7 +60,7 @@ Supported and used by the lovely Soda Dungeon 2 community. Created specifically 
 
 ### Caffeine Experience
 - Highly customizable settings.
-- Useful FPH counters (Floors Per Hour).
+~~- Useful FPH counters (Floors Per Hour).~~
 - Complete game report statistics.
 - Helpful notifications and tooltips.
 - Numerous splash number formats.
