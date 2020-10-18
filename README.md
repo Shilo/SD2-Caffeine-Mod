@@ -59,8 +59,7 @@ We all enjoy Soda Dungeon 2, but no game is perfect. Improve the game's strength
 Supported and used by the lovely Soda Dungeon 2 community. Created specifically for them and highly appreciated. This mod continues to grow with the growth of the supportive players backing it. Guaranteed safe to use and always the player in mind.
 
 ### Caffeine Experience
-- Highly customizable settings.  
-~~- Useful FPH counters (Floors Per Hour).~~  
+- Highly customizable settings.
 - Complete game report statistics.
 - Helpful notifications and tooltips.
 - Numerous splash number formats.
@@ -73,7 +72,8 @@ Supported and used by the lovely Soda Dungeon 2 community. Created specifically 
 - Disable mod in real-time.
 - Automatic backup and recovery support.
 - Comforting compatibility protection.
-- Various improvements and bug fixes.
+- Various improvements and bug fixes.  
+~~- Useful FPH counters (Floors Per Hour).~~
 
 ## Disclaimer
 > © 2020 CaffeineMod.com Shilo. © 2020 AN Productions | poxpower. All rights reserved.  
