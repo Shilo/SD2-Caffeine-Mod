@@ -17,6 +17,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
+## [1.0.6.2] - 2020-10-18
+### Added
+- Ported/upgraded mod to SD2 v1.0.6.
+- Created Caffeine Pill (Lite) version. Contains FPS counter, compatibility protection, backup/recovery system, and performance bug fixes.
+- Added chef to game report.
+- Added support for free warps and chef for auto essence fountain.
+- Added FPS counter with settings.
+- Added copy to clipboard support for dungeon level and fph text.
+- Added option to turn off "All" button for relic menu.
+- Added a "relic spend all" option with the settings: off, on, rounded dynamic, rounded to 10's, rounded to 100's, rounded to 1,000's.
+- Added various hotkeys.
+
+### Fixed
+- Various bug fixes and improvements.
+- Improved party slot stats formatting (commas and dynamic spacing).
+
+### Security
+- Added compatibility protection screen when error is encountered on load.
+
+### Removed
+- Removed Caffeine FPH counters.
+
 ## [1.0.5.1] - 2020-10-15
 ### Added
 - Right clicking on Caffeine logo button will toggle mod on/off.
@@ -113,5 +135,6 @@ SD2 Default, 0 Decimal Places, 1 Decimal Place, 2 Decimal Places, 3 Decimal Plac
 - Improved character stats positions in party window.
 
 [Unreleased]: https://github.com/Shilo/SD2-Caffeine-Mod/compare/v1.0.5.0...HEAD
+[1.0.6.2]: https://github.com/Shilo/SD2-Caffeine-Mod/compare/v1.0.5.1..v1.0.6.2
 [1.0.5.1]: https://github.com/Shilo/SD2-Caffeine-Mod/compare/v1.0.5.0...v1.0.5.1
 [1.0.5.0]: https://github.com/Shilo/SD2-Caffeine-Mod/releases/tag/v1.0.5.0
