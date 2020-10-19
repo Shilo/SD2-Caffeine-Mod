@@ -5,6 +5,17 @@ If your browser indicates that download may be dangerous, instruct it to continu
 If your antivirus software reports a virus, it is a false positive and should be reported to the antivirus company.  
 To verify data integrity, use a [file checksum integrity verifier](https://en.wikipedia.org/wiki/File_verification) tool such as [OnlineMD5](http://onlinemd5.com).
 
+## [1.0.6.2] - 2020-10-18
+https://www.virustotal.com/gui/file/cf14d235418bbf75eca2a5b911eb3aad817c65b62e8ee3305e8812d941deb099/detection
+```
+MD5	ba746bd0aa743fcb660ef8fc7a66afa7
+SHA-1	79a4eac5989b3bf5f497962e0e8548c5f8e9d764
+SHA-256	cf14d235418bbf75eca2a5b911eb3aad817c65b62e8ee3305e8812d941deb099
+Vhash	6b14990f28dcb096af259e7224a23385
+SSDEEP	24576:Ho9qop+/2/uZj0RLAWUbHN97eenG2ldAy5sRwqHlTLq5:SBSVZkLAWifeMzATRLHlTLq5
+TLSH	T10E0533B189A1F8489DF5D2ACDEC5E17DA43BA0BA1CED93772F1049C3490EA9E1378C15
+```
+
 ## [1.0.5.1] - 2020-10-15
 https://www.virustotal.com/gui/file/e74874223e1ff18917f72c8d3ea693ba249074b47ebde900a7e174edbdb81338/detection
 ```
@@ -26,5 +37,6 @@ Vhash	6b14990f28dcb096af259e7224a23385
 SSDEEP	12288:6zop/tvi5Ga7v8YspjrvdvWahsTdFTcOhrqAmVjda6RdNr5mY11g:6iM5vbBspjjdvXhmAOrqAmVjddNrR1g
 ```
 
+[1.0.6.2]: https://www.virustotal.com/gui/file/cf14d235418bbf75eca2a5b911eb3aad817c65b62e8ee3305e8812d941deb099/detection
 [1.0.5.1]: https://www.virustotal.com/gui/file/e74874223e1ff18917f72c8d3ea693ba249074b47ebde900a7e174edbdb81338/detection
 [1.0.5.0]: https://www.virustotal.com/gui/file/e65bbea76d86f591f76d33f829cf1893b22ac4e3a75602859cee38700d3e7b28/detection
