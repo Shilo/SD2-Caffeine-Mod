@@ -9,7 +9,7 @@ Guaranteed free, safe, and no cheats.
 > Mac OS X installer coming in the future.
 
 Author: [Shilo](https://github.com/Shilo)  
-[![Caffeine](README/logo.png) Go to Releases](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
+[Go to Releases](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
 
 ## Table Of Contents
 - [Overview](#overview)
