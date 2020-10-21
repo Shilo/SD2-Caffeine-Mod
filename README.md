@@ -1,7 +1,7 @@
 # SD2 - Caffeine Mod [Steam / Windows / Mac OS X]
 [![Caffeine](README/showcase.gif)](README)  
 
-[![Caffeine](README/logo.png)](#download)  
+[![Caffeine](README/logo.png) Releases](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
 A Caffeine-addicting mod that boosts [Soda Dungeon 2](https://www.sodadungeon.com/)'s energy and smartness.  
 Includes quality of life features and fixes.  
 Guaranteed free, safe, and no cheats.  
