@@ -57,7 +57,7 @@ Are you a fan of numbers and data? Use the Game Report menu to view a massive li
 We all enjoy Soda Dungeon 2, but no game is perfect. Improve the game's strengths and fix the game's weaknesses. Various Quality of Life changes throughout the entire game. Allowing for more enjoyable gameplay.
 
 ### Renowned Satisfaction
-Approved by the legendary Soda Dungeon 2 developer. Supported and used by the lovely community. Created specifically for them and highly appreciated. This mod continues to grow with the growth of the supportive players backing it. Guaranteed safe to use and always the player in mind.
+Approved by the Soda Dungeon 2 developer. Supported and used by the lovely community. Created specifically for them and highly appreciated. This mod continues to grow with the growth of the supportive players backing it. Guaranteed safe to use and always the player in mind.
 
 ### Caffeine Experience
 - Highly customizable settings.
