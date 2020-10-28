@@ -1,5 +1,5 @@
 # SD2 - Caffeine Mod [Steam / Windows / Mac OS X]
-[![Caffeine](README/showcase.gif)](README)  
+![Halloween Theme](https://github.com/Shilo/SD2-Caffeine-Mod/blob/master/README/halloween_theme.gif)  
 
 [![Caffeine](README/logo.png) Caffeine Mod](https://github.com/Shilo/SD2-Caffeine-Mod/releases)  
 A Caffeine-addicting mod that boosts [Soda Dungeon 2](https://www.sodadungeon.com/)'s energy and smartness.  
