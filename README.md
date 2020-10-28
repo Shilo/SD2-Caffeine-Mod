@@ -60,7 +60,10 @@ We all enjoy Soda Dungeon 2, but no game is perfect. Improve the game's strength
 Approved by the Soda Dungeon 2 developer. Supported and used by the lovely community. Created specifically for them and highly appreciated. This mod continues to grow with the growth of the supportive players backing it. Guaranteed safe to use and always the player in mind.
 
 ### Caffeine Experience
+- Focused on performance optimizations.
 - Highly customizable settings.
+- Custom and holiday/special event themes.
+- Flexible support for third party themes.
 - Enhanced FPH counters (Floors Per Hour).
 - ~~Exciting and competitive leaderboard.~~
 - Complete game report statistics.
@@ -69,10 +72,10 @@ Approved by the Soda Dungeon 2 developer. Supported and used by the lovely commu
 - Customizable friendly and enemy status.
 - Convenient battle options.
 - Optional desktop-standard hotkeys.
-- Fully accessible party and relic windows.
+- Fully accessible in-game windows.
 - Extra and easily readable statistics.
 - Lightweight FPS counter (frames per second).
-- One click copy data.
+- Simple one-click data copying.
 - Automatic backup and recovery support.
 - Comforting compatibility protection.
 - Various improvements and bug fixes.
