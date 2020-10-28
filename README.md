@@ -63,7 +63,7 @@ Approved by the Soda Dungeon 2 developer. Supported and used by the lovely commu
 - Focused on performance optimizations.
 - Highly customizable settings.
 - Custom and holiday/special event themes.
-- Flexible support for third party themes.
+- Flexible support for third party themes (including Starter theme).
 - Enhanced FPH counters (Floors Per Hour).
 - ~~Exciting and competitive leaderboard.~~
 - Complete game report statistics.
