@@ -191,4 +191,5 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - [Tilli](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [Discord server](https://discord.gg/y93QchM).
 - [XenosTec](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [Discord server](https://discord.gg/y93QchM).
 - [Etatauri](https://github.com/Etatauri) for the very appreciated help with documentation and other support behind the scenes. Check her out on [GitHub](https://github.com/Etatauri).
+- [Eric Matyas](https://soundimage.org) for Starter theme music. https://soundimage.org
 - [Soda Dungeon 2 community](https://discord.com/invite/sodadungeon) for all the love and support. Thank you from the bottom of my heart!
