@@ -187,9 +187,10 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - [Kubis_sakti](https://www.fiverr.com/kubis_sakti) for help in creating beautiful high-quality character. Check him out on [Fiverr](https://www.fiverr.com/kubis_sakti).
 - [Benvictus](https://www.fiverr.com/benvictus) for creating a new and improved high-quality logo/button (soda sprite). Check him out on [Fiverr](https://www.fiverr.com/benvictus).
 - [Nikoleta Jovanovic](https://www.artstation.com/niko-art) for helping create lovely high-quality initial logo. Check out her [portfolio](https://www.artstation.com/niko-art).
-- [caviyacht](https://github.com/caviyacht) for the very appreciated help and support behind the scenes. Check him out on [GitHub](https://github.com/caviyacht).
+- [Dasky](https://github.com/Dasky14) for the very appreciated help, testing and support behind the scenes. Check him out on [GitHub](https://github.com/Dasky14).
 - [Tilli](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [Discord server](https://discord.gg/y93QchM).
 - [XenosTec](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [Discord server](https://discord.gg/y93QchM).
+- [caviyacht](https://github.com/caviyacht) for the very appreciated help and support behind the scenes. Check him out on [GitHub](https://github.com/caviyacht).
 - [Etatauri](https://github.com/Etatauri) for the very appreciated help with documentation and other support behind the scenes. Check her out on [GitHub](https://github.com/Etatauri).
 - [Eric Matyas](https://soundimage.org) for Starter theme music. https://soundimage.org
 - [Soda Dungeon 2 community](https://discord.com/invite/sodadungeon) for all the love and support. Thank you from the bottom of my heart!
