@@ -65,7 +65,7 @@ Approved by the Soda Dungeon 2 developer. Supported and used by the lovely commu
 - Custom and holiday/special event themes.
 - Flexible support for third party themes (including Starter theme).
 - Enhanced FPH counters (Floors Per Hour).
-- ~~Exciting and competitive leaderboard.~~
+- ~~Exciting and competitive leaderboard.~~ (Upcoming)
 - Complete game report statistics.
 - Helpful notifications and tooltips.
 - Numerous splash number formats.
@@ -80,6 +80,7 @@ Approved by the Soda Dungeon 2 developer. Supported and used by the lovely commu
 - Comforting compatibility protection.
 - Various improvements and bug fixes.
 - Disable mod in real-time.
+- ~~Useful FPS Counter.~~ (Added to Vanilla)
 
 ## Disclaimer
 > © 2020 CaffeineMod.com Shilo. © 2020 AN Productions | poxpower. All rights reserved.  
@@ -187,6 +188,7 @@ Only install this mod with the compatible SD2 version specified (for example, Ca
 - [Kubis_sakti](https://www.fiverr.com/kubis_sakti) for help in creating beautiful high-quality character. Check him out on [Fiverr](https://www.fiverr.com/kubis_sakti).
 - [Benvictus](https://www.fiverr.com/benvictus) for creating a new and improved high-quality logo/button (soda sprite). Check him out on [Fiverr](https://www.fiverr.com/benvictus).
 - [Nikoleta Jovanovic](https://www.artstation.com/niko-art) for helping create lovely high-quality initial logo. Check out her [portfolio](https://www.artstation.com/niko-art).
+- [Nathaniel Hunt](https://www.linkedin.com/in/nathaniel-hunt) for the helpful business advice and strategic direction. Check him out on [LinkedIn](https://www.linkedin.com/in/nathaniel-hunt).
 - [Dasky](https://github.com/Dasky14) for the very appreciated help, testing and support behind the scenes. Check him out on [GitHub](https://github.com/Dasky14).
 - [Tilli](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [Discord server](https://discord.gg/y93QchM).
 - [XenosTec](https://discord.gg/y93QchM) for the very appreciated help and support behind the scenes. Check out the [Discord server](https://discord.gg/y93QchM).
