@@ -98,9 +98,10 @@ Guaranteed safe and virus free.
 Only install this mod with the compatible SD2 version specified (for example, Caffeine Mod v1.0.6.X only supports SD2 v1.0.6). The numerical version of the mod will always match the supported version of the game. If you unintentionally install the mod with an incompatible SD2 version, you can [uninstall the mod](#uninstallation) to revert back to the original working game. Or you can repair your game via Steam's ["Verify Integrity of Game Files..."](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) button.
 
 ## Download
-[![Options](README/logo.png) Latest: SD2-Caffeine-Mod.zip](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest/download/SD2-Caffeine-Mod-v1.0.6.2.zip)
+[![Options](README/logo.png) Latest: SD2-Caffeine-Mod.zip](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest/download/SD2-Caffeine-Mod-1.0.6.3-Pre-Release-2_Windows.zip
+.zip)
 - Navigate to [latest version](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest).
-- Scroll down to "Assets" and open the first link named "[SD2-Caffeine-Mod.zip](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest/download/SD2-Caffeine-Mod-v1.0.6.2.zip)".
+- Scroll down to "Assets" and open the first link named "[SD2-Caffeine-Mod.zip](https://github.com/Shilo/SD2-Caffeine-Mod/releases/latest/download/SD2-Caffeine-Mod-1.0.6.3-Pre-Release-2_Windows.zip)".
 > Source code links are irrelevant as it is just the [documentation](https://github.com/Shilo/SD2-Caffeine-Mod) only.  
 > If your browser indicates that download may be dangerous, instruct it to continue/keep download.  
 > If your antivirus software reports a virus, it is a false positive and should be reported to the antivirus company.
