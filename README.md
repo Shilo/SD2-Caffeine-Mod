@@ -80,6 +80,7 @@ Approved by the Soda Dungeon 2 developer. Supported and used by the lovely commu
 - Comforting compatibility protection.
 - Various improvements and bug fixes.
 - Disable mod in real-time.
+- Discord Rich Presence integration.
 - ~~Useful FPS Counter.~~ (Added to Vanilla)
 
 ## Disclaimer
