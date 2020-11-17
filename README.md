@@ -83,6 +83,7 @@ Approved by the Soda Dungeon 2 developer. Supported and used by the lovely commu
 - Discord Rich Presence integration.
 - Compact battle notification styles.
 - ~~Useful FPS Counter.~~ (Added to Vanilla)
+- And more.
 
 ## Disclaimer
 > © 2020 CaffeineMod.com Shilo. © 2020 AN Productions | poxpower. All rights reserved.  
