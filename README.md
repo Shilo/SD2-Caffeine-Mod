@@ -82,6 +82,7 @@ Approved by the Soda Dungeon 2 developer. Supported and used by the lovely commu
 - Disable mod in real-time.
 - Discord Rich Presence integration.
 - Compact battle notification styles.
+- Easy in-game automatic mod updater.
 - ~~Useful FPS Counter.~~ (Added to Vanilla)
 - And more.
 
