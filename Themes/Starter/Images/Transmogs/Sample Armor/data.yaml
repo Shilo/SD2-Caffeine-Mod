@@ -1,0 +1,128 @@
+# # # # # # # # # # # # # # # # # # # # # # # # #   # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Caffeine Configuration File                   #   # Links and resources                                                           #
+# # # # # # # # # # # # # # # # # # # # # # # # #   # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#   Customize cosmetic items for the            #   #   Caffeine Mod: https://caffeinemod.com                                       #
+#   Caffeine transmogrification system.         #   #   Starter theme: https://github.com/Shilo/SD2-Caffeine-Mod/tree/master/Themes #
+#   Created by Shilo: https://github.com/Shilo  #   #   YAML documentation: https://yaml.org                                        #
+# # # # # # # # # # # # # # # # # # # # # # # # #   # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+# # # # # # # # # # # # # # # # # # # # # # # # #   # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# How to create a custom item image             #   # Note                                                                          #
+# # # # # # # # # # # # # # # # # # # # # # # # #   # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#   Add an image in the same theme folder.      #   #   This entire file and/or properties are optional.                            #
+#   Name: 1.png                                 #   #   All keys and values are case-insensitive.                                   #
+#   Resolution: any height and width.           #   #   Uses YAML (YAML Ain't Markup Language) serialization language.              #
+#   If no image exists, body part(s) is bare.   #   #   Please use the following format below.                                      #
+# # # # # # # # # # # # # # # # # # # # # # # # #   # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Edit the "Key: Value" lines below. You may remove all the comments inside "#" blocks. Comments are optional and for instructions. #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+# # # # # # # # # # # # # # #
+# Name / Title              #
+# # # # # # # # # # # # # # #
+#   Default: <Folder Name>  #
+# # # # # # # # # # # # # # #
+Name: Sample Mail
+
+# # # # # # # # # # # # # #
+# Type / Category         #
+# # # # # # # # # # # # # #
+#   Default: Resource     #
+#   Values:               #
+#     Weapon              #
+#     Shield              #
+#     Armor (Coming soon) #
+#     Accessory           #
+#     Gem                 #
+#     Resource            #
+# # # # # # # # # # # # # #
+Type: Armor
+
+# # # # # # # # # # # # #
+# Rarity / Uniqueness   #
+# # # # # # # # # # # # #
+#   Default: Mythic     #
+#   Values:             #
+#     Common            #
+#     Uncommon          #
+#     Rare              #
+#     Legendary         #
+#     Mythic            #
+# # # # # # # # # # # # #
+Rarity: common
+
+# # # # # # # # # # # # #
+# Level / Star rank     #
+# # # # # # # # # # # # #
+#   Default: 1          #
+#   Values:  1 to 10    #
+# # # # # # # # # # # # #
+Level: 1
+
+# # # # # # # # # # # # # # # # # # # # #
+# Pivot X / Origin X / Sprite Offset X  #
+# Pivot X / Origin Y / Sprite Offset Y  #
+# # # # # # # # # # # # # # # # # # # # #
+#   Default: (Center)                   #
+#     Pivot X: 0.5                      #
+#     Pivot Y: 0.5                      #
+#   Values: (Bottom-left to top-right.) #
+#     0.0 to 1.0                        #
+#   Note: Origin point is bottom-left.  #
+#   Example:                            #
+#     Bottom-left sprite offset:        #
+#       Pivot X: 0.0                    #
+#       Pivot Y: 0.0                    #
+#     Top-left sprite offset:           #
+#       Pivot X: 0.0                    #
+#       Pivot Y: 1.0                    #
+#     Bottom-right sprite offset:       #
+#       Pivot X: 1.0                    #
+#       Pivot Y: 0.0                    #
+#     Center sprite offset:             #
+#       Pivot X: 0.5                    #
+#       Pivot Y: 0.5                    #
+#     Generic sword sprite offset:      #
+#       Pivot X: 0.5                    #
+#       Pivot Y: 0.2                    #
+#     Generic shield sprite offset:     #
+#       Pivot X: 0.55                   #
+#       Pivot Y: 0.55                   #
+# # # # # # # # # # # # # # # # # # # # #
+Pivot X: 0.5
+Pivot Y: 0.5
+
+# # # # # # # # # # # # # # #
+# Price / Sorting Priority  #
+# # # # # # # # # # # # # # #
+#   Default: 0              #
+#   Note: Higher price will #
+#     sort item upwards on  #
+#     item list. Priority.  #
+# # # # # # # # # # # # # # #
+Price: -1
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Description / Detailed information                                #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#   Default:                                                        #
+#     Cosmetic item that alters the appearence of your <Item Type>. #
+#     Provided by <Theme Folder Name> theme in Caffeine Mod.        #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+Description:
+  Cosmetic item that alters the appearence of your Armor. This is an example on how to create your own custom items.
+  Provided by Starter theme in Caffiene Mod.
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Below is an example data file with all comments removed for readability and simplicity. You must remove '#' before the keys.      #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Name:         Plated Gauntlet
+# Type:         Weapon
+# Rarity:       Uncommon
+# Level:        4
+# Pivot X:      0.5
+# Pivot Y:      0.5
+# Price:        0
+# Description:  A glove reinforced with armor. Cosmetic item that alters the appearence of your Weapon. Provided by Starter theme in Caffiene Mod.
