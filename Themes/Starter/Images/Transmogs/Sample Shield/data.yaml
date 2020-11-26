@@ -108,11 +108,11 @@ Price: -1
 # Description / Detailed information                                #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #   Default:                                                        #
-#     Cosmetic item that alters the appearence of your <Item Type>. #
+#     Cosmetic item that alters the appearance of your <Item Type>. #
 #     Provided by <Theme Folder Name> theme in Caffeine Mod.        #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 Description:
-  Cosmetic item that alters the appearence of your Shield. This is an example on how to create your own custom items.
+  Cosmetic item that alters the appearance of your Shield. This is an example on how to create your own custom items.
   Provided by Starter theme in Caffiene Mod.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -125,4 +125,4 @@ Description:
 # Pivot X:      0.5
 # Pivot Y:      0.5
 # Price:        0
-# Description:  A glove reinforced with armor. Cosmetic item that alters the appearence of your Weapon. Provided by Starter theme in Caffiene Mod.
+# Description:  A glove reinforced with armor. Cosmetic item that alters the appearance of your Weapon. Provided by Starter theme in Caffiene Mod.
