@@ -113,7 +113,7 @@ Price: -1
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 Description:
   Cosmetic item that alters the appearance of your Armor. This is an example on how to create your own custom items.
-  Provided by Starter theme in Caffiene Mod.
+  Provided by Starter theme in Caffeine Mod.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Below is an example data file with all comments removed for readability and simplicity. You must remove '#' before the keys.      #
@@ -125,4 +125,4 @@ Description:
 # Pivot X:      0.5
 # Pivot Y:      0.5
 # Price:        0
-# Description:  A glove reinforced with armor. Cosmetic item that alters the appearance of your Weapon. Provided by Starter theme in Caffiene Mod.
+# Description:  A glove reinforced with armor. Cosmetic item that alters the appearance of your Weapon. Provided by Starter theme in Caffeine Mod.
